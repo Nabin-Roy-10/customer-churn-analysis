@@ -1,0 +1,522 @@
+customerid,customer_name,country,state,gender,dob,age,age_group,subscription_start_date,subscription_type,renewal_date,plan_type,contract_type,cancellation_date,cancellation_reason,monthly_charges,cltv,churn_score,churn_flag,tenure_days,tenure_years,tenure_group,annual_charges,cancellation_year,cancellation_month,churn_risk_group,complaint_count,escalation_count,avg_csat_score,last_complaint_date
+0002-ORFBO,keshav,India,Maharashtra,Male,1982-04-12,44,36-45,2021-03-15,Referral,2025-03-15,Standard,Annual,,,13.99,627,12,0,2016.0,5.52,5-7 years,167.88,,,Low Risk,,,,
+0003-MKNFE,raghav,India,Karnataka,Male,1995-11-23,31,26-35,2020-08-01,Paid,2024-08-01,Premium,Annual,2024-09-10,Switched to competitor,12.99,1150,91,1,1501.0,4.11,3-5 years,155.88,2024.0,9.0,High Risk,2.0,1.0,35.0,2024-08-28
+0004-TLHLJ,lalita,India,Delhi,Female,1978-02-15,48,46-55,2022-11-20,Organic,2025-11-20,Basic,Monthly,,,6.99,210,34,0,1401.0,3.84,3-5 years,83.88,,,Medium Risk,,,,
+0011-IGKFF,mohan,India,Nagaland,Male,2001-08-30,25,18-25,2019-05-10,Paid,2025-05-10,Premium,Annual,,,22.99,1725,8,0,2691.0,7.37,7+ years,275.88,,,Low Risk,,,,
+0013-EXCHZ,mira,India,Delhi,Female,1990-05-05,36,36-45,2023-01-05,Referral,2024-01-05,Standard,Monthly,2024-02-28,Too expensive,13.99,195,88,1,419.0,1.15,1-3 years,167.88,2024.0,2.0,High Risk,1.0,1.0,20.0,2024-01-20
+0013-MHZWF,durga,India,Delhi,Female,1988-12-10,38,36-45,2022-06-18,Paid,2025-06-18,Standard,Annual,,,17.99,720,22,0,1556.0,4.26,3-5 years,215.88,,,Low Risk,1.0,0.0,90.0,2025-03-18
+0013-SMEOE,mina,India,Meghalaya,Female,1976-09-21,50,46-55,2021-09-30,Referral,2024-09-30,Basic,Monthly,2024-11-15,Not enough content,8.99,230,79,1,1142.0,3.13,3-5 years,107.88,2024.0,11.0,High Risk,1.0,0.0,30.0,2024-11-01
+0014-BMAQU,madan,India,Rajasthan,Male,1999-03-14,27,26-35,2020-02-14,Organic,2025-02-14,Premium,Annual,,,22.99,1840,5,0,2411.0,6.6,5-7 years,275.88,,,Low Risk,,,,
+0015-UOCOJ,maya,Nepal,Kathmandu,Female,1985-07-07,41,36-45,2023-07-22,Organic,2024-07-22,Standard,Monthly,,,13.99,240,34,0,1157.0,3.17,3-5 years,167.88,,,Medium Risk,,,,
+0016-QLJIS,arjun,Nepal,Kathmandu,Male,1993-10-29,33,26-35,2022-04-03,Organic,2025-04-03,Basic,Annual,,,6.99,335,41,0,1632.0,4.47,3-5 years,83.88,,,Medium Risk,,,,
+0017-DINOC,shiva,India,Maharashtra,Male,1997-01-22,29,26-35,2021-12-01,Organic,2025-12-01,Premium,Annual,,,22.99,1610,14,0,1755.0,4.8,3-5 years,275.88,,,Low Risk,,,,
+0017-IUDMW,rangadevi,India,Karnataka,Female,1981-06-18,45,36-45,2023-03-17,Referral,2024-03-17,Standard,Monthly,2024-05-01,Poor streaming quality,7.99,270,83,1,411.0,1.13,1-3 years,95.88,2024.0,5.0,High Risk,1.0,1.0,25.0,2024-04-10
+0018-NYROU,chitra,India,Telangana,Female,2004-12-01,22,18-25,2020-10-09,Organic,2025-10-09,Standard,Annual,,,13.99,980,19,0,2173.0,5.95,5-7 years,167.88,,,Low Risk,,,,
+0019-EFAEP,raju,India,Meghalaya,Female,1992-04-25,34,26-35,2022-08-25,Referral,2024-08-25,Basic,Monthly,2024-10-31,Switched to competitor,12.99,160,76,1,798.0,2.18,1-3 years,155.88,2024.0,10.0,High Risk,1.0,1.0,30.0,2024-09-27
+0019-GFNTW,Madhav,India,Uttar Pradesh,Male,1979-11-11,47,46-55,2019-11-11,Paid,2025-11-11,Premium,Annual,,,92.99,2185,3,0,2506.0,6.86,5-7 years,1115.8799999999999,,,Low Risk,,,,
+0020-INWCK,parvati,India,Delhi,Female,1986-02-28,40,36-45,2023-05-06,Organic,2025-05-06,Standard,Monthly,,,13.99,640,58,0,1234.0,3.38,3-5 years,167.88,,,Medium Risk,,,,
+0020-JDNXP,rikim,India,Meghalaya,Female,1994-08-19,32,26-35,2022-01-19,Organic,2024-01-19,Premium,Annual,,,20.99,550,62,0,1706.0,4.67,3-5 years,251.88,,,High Risk,,,,
+0021-IKXGC,vishakha,India,Rajasthan,Female,2000-09-02,26,26-35,2021-07-07,Paid,2025-07-07,Standard,Annual,,,13.99,840,27,0,1902.0,5.21,5-7 years,167.88,,,Low Risk,,,,
+0022-TCJCI,raghvendra,India,Telangana,Male,1983-12-30,43,36-45,2023-09-14,Referral,2024-09-14,Basic,Monthly,2024-09-14,Forgot to cancel trial,16.99,42,99,1,366.0,1.0,0-1 years,203.88,2024.0,9.0,High Risk,2.0,1.0,50.0,2024-09-14
+0023-HGHWL,rishabh,India,Uttar Pradesh,Male,1991-05-14,35,26-35,2020-06-23,Organic,2025-06-23,Premium,Annual,,,22.99,1955,7,0,2281.0,6.25,5-7 years,275.88,,,Low Risk,,,,
+0023-UYUPN,sudevi,India,Maharashtra,Female,1977-10-06,49,46-55,2022-12-31,Paid,2025-12-31,Standard,Monthly,,,13.99,790,47,0,1360.0,3.72,3-5 years,167.88,,,Medium Risk,,,,
+1824-AHFTR,rangadevi,Nepal,Kathmandu,Female,1966-06-05,60,56-65,2019-01-26,Organic,2020-01-26,Basic,Annual,,,7.99,638,55,0,2795.0,7.65,7+ years,95.88,,,Medium Risk,1.0,0.0,43.0,2024-09-08
+3811-NAFQO,sneha,India,Odisha,Male,1977-06-24,49,46-55,2020-12-20,Referral,2021-12-20,Basic,Annual,,,9.49,569,32,0,2101.0,5.75,5-7 years,113.88,,,Medium Risk,1.0,0.0,22.0,2024-10-06
+0106-TEKHF,usha,India,Nagaland,Male,1982-01-16,44,36-45,2020-09-28,Referral,2021-09-28,Standard,Annual,,,17.45,1095,49,0,2184.0,5.98,5-7 years,209.39999999999998,,,Medium Risk,,,,
+9891-GBLDX,shiva,Nepal,Kathmandu,Male,2002-03-16,24,18-25,2019-08-18,Paid,2020-08-18,Premium,Annual,2023-06-06,No longer needed,22.49,1623,91,1,1388.0,3.8,3-5 years,269.88,2023.0,6.0,High Risk,,,,
+5925-PSBFH,shiva,India,Uttar Pradesh,Male,1982-01-19,44,36-45,2022-12-19,Organic,2023-12-19,Basic,Monthly,,,7.44,262,55,0,1372.0,3.76,3-5 years,89.28,,,Medium Risk,2.0,1.0,37.5,2025-04-21
+5977-EJRSR,arjun,India,Rajasthan,Male,1997-09-16,29,26-35,2020-11-10,Organic,2021-11-10,Standard,Monthly,,,14.94,895,4,0,2141.0,5.86,5-7 years,179.28,,,Low Risk,,,,
+7573-JZQOR,madan,India,Uttar Pradesh,Male,2001-02-10,25,18-25,2022-01-17,Organic,2023-01-17,Standard,Monthly,,,15.48,640,15,0,1708.0,4.68,3-5 years,185.76,,,Low Risk,1.0,1.0,20.0,2025-10-15
+4386-BXOSF,padma,India,Punjab,Female,1985-08-01,41,36-45,2024-11-20,Paid,2025-11-20,Basic,Monthly,,,7.33,60,3,0,670.0,1.83,1-3 years,87.96000000000001,,,Low Risk,,,,
+4040-TOTLP,alok,India,Uttar Pradesh,Female,1987-11-10,39,36-45,2024-05-30,Referral,2025-05-30,Premium,Annual,,,21.76,307,51,0,844.0,2.31,1-3 years,261.12,,,Medium Risk,,,,
+0771-WDERP,radha,India,Punjab,Male,1985-12-30,41,36-45,2022-09-02,Paid,2023-09-02,Basic,Monthly,,,9.61,352,47,0,1480.0,4.05,3-5 years,115.32,,,Medium Risk,,,,
+9064-WASRN,kiran,India,Gujarat,Male,1978-03-02,48,46-55,2024-11-09,Organic,2025-11-09,Basic,Monthly,,,7.92,67,23,0,681.0,1.86,1-3 years,95.03999999999999,,,Low Risk,2.0,1.0,54.0,2025-05-30
+7433-ASSZT,vinod,India,Nagaland,Female,1978-05-22,48,46-55,2024-03-27,Referral,2025-03-27,Premium,Annual,,,21.51,337,59,0,908.0,2.49,1-3 years,258.12,,,Medium Risk,,,,
+8317-PDTOU,keshav,India,Gujarat,Female,1965-11-16,61,56-65,2021-05-09,Paid,2022-05-09,Basic,Annual,,,7.57,361,9,0,1961.0,5.37,5-7 years,90.84,,,Low Risk,1.0,1.0,11.0,2025-09-02
+5038-GGOCT,maya,Nepal,Kathmandu,Female,1970-10-05,56,56-65,2022-01-21,Paid,2023-01-21,Basic,Monthly,2024-02-07,Forgot to cancel trial,7.81,332,87,1,747.0,2.05,1-3 years,93.72,2024.0,2.0,High Risk,,,,
+9007-ENPZY,vikram,India,West Bengal,Female,1995-02-17,31,26-35,2022-07-28,Paid,2023-07-28,Basic,Annual,2024-07-20,Forgot to cancel trial,9.82,322,89,1,723.0,1.98,1-3 years,117.84,2024.0,7.0,High Risk,,,,
+7177-XLGBA,amit,Nepal,Kathmandu,Female,1965-04-28,61,56-65,2023-12-23,Referral,2024-12-23,Basic,Monthly,2024-07-23,Billing issue,7.08,126,82,1,213.0,0.58,0-1 years,84.96000000000001,2024.0,7.0,High Risk,,,,
+3750-BAINH,satish,India,Telangana,Male,1970-12-08,56,56-65,2024-01-01,Organic,2025-01-01,Standard,Monthly,,,14.55,285,7,0,994.0,2.72,1-3 years,174.60000000000002,,,Low Risk,,,,
+9355-OGMKC,ritu,India,Kerala,Female,1983-06-11,43,36-45,2024-03-22,Referral,2025-03-22,Standard,Annual,,,13.45,205,47,0,913.0,2.5,1-3 years,161.39999999999998,,,Medium Risk,,,,
+0887-RZCKI,raju,India,Uttar Pradesh,Female,1973-07-14,53,46-55,2024-03-21,Paid,2025-03-21,Standard,Monthly,,,17.73,255,13,0,914.0,2.5,1-3 years,212.76,,,Low Risk,,,,
+2296-KHGYL,chitra,India,Karnataka,Female,1989-04-01,37,36-45,2022-09-15,Referral,2023-09-15,Premium,Annual,,,25.4,741,24,0,1467.0,4.02,3-5 years,304.79999999999995,,,Low Risk,,,,
+1528-YWEMF,kamala,India,Karnataka,Female,1982-01-01,44,36-45,2024-05-14,Paid,2025-05-14,Standard,Annual,,,13.84,194,27,0,860.0,2.35,1-3 years,166.07999999999998,,,Low Risk,,,,
+4345-YUHSS,satish,India,Meghalaya,Female,1978-04-24,48,46-55,2020-03-14,Paid,2021-03-14,Basic,Annual,,,8.94,569,17,0,2382.0,6.52,5-7 years,107.28,,,Low Risk,,,,
+0958-POTBP,vinod,India,Telangana,Female,1967-07-21,59,56-65,2021-09-25,Referral,2022-09-25,Standard,Annual,,,17.86,778,39,0,1822.0,4.99,3-5 years,214.32,,,Medium Risk,1.0,0.0,30.0,2024-06-22
+1312-WBBWK,rajesh,Nepal,Kathmandu,Male,1966-10-14,60,56-65,2023-11-01,Paid,2024-11-01,Premium,Annual,2024-02-18,Billing issue,23.17,496,91,1,109.0,0.3,0-1 years,278.04,2024.0,2.0,High Risk,,,,
+6868-ROIGR,ajay,India,Uttar Pradesh,Male,1982-10-03,44,36-45,2024-06-16,Paid,2025-06-16,Basic,Annual,,,8.78,97,21,0,827.0,2.26,1-3 years,105.35999999999999,,,Low Risk,,,,
+7491-ITBLZ,chitra,India,Delhi,Male,1974-07-25,52,46-55,2023-07-21,Organic,2024-07-21,Basic,Annual,,,7.32,172,7,0,1158.0,3.17,3-5 years,87.84,,,Low Risk,,,,
+2170-YWWJE,ramesh,India,Telangana,Male,1994-12-17,32,26-35,2021-06-10,Paid,2022-06-10,Premium,Monthly,,,25.43,1315,20,0,1929.0,5.28,5-7 years,305.15999999999997,,,Low Risk,,,,
+4905-YCWGX,sudevi,India,Tamil Nadu,Male,1992-02-18,34,26-35,2023-05-17,Organic,2024-05-17,Standard,Monthly,,,15.23,437,52,0,1223.0,3.35,3-5 years,182.76,,,Medium Risk,,,,
+5617-FQGMX,mina,India,Delhi,Female,1984-01-01,42,36-45,2022-06-01,Referral,2023-06-01,Premium,Annual,,,25.67,986,34,0,1573.0,4.31,3-5 years,308.04,,,Medium Risk,1.0,1.0,11.0,2024-04-11
+0722-AUQGT,pankaj,Nepal,Kathmandu,Male,1970-01-07,56,56-65,2023-07-14,Organic,2024-07-14,Premium,Monthly,,,25.25,676,2,0,1165.0,3.19,3-5 years,303.0,,,Low Risk,,,,
+8938-AJOLB,alok,India,Karnataka,Male,1974-06-04,52,46-55,2023-01-11,Paid,2024-01-11,Basic,Monthly,,,7.84,230,42,0,1349.0,3.69,3-5 years,94.08,,,Medium Risk,,,,
+1684-JOWZT,priya,India,Rajasthan,Female,2004-07-16,22,18-25,2022-07-27,Paid,2023-07-27,Standard,Annual,2023-09-15,Forgot to cancel trial,15.02,488,74,1,415.0,1.14,1-3 years,180.24,2023.0,9.0,High Risk,,,,
+2938-TIYUW,rajesh,India,Tamil Nadu,Female,2000-04-27,26,26-35,2023-04-25,Paid,2024-04-25,Premium,Annual,,,22.79,567,10,0,1245.0,3.41,3-5 years,273.48,,,Low Risk,,,,
+6267-WWFVL,sunita,India,Uttar Pradesh,Female,1966-01-23,60,56-65,2020-07-04,Organic,2021-07-04,Basic,Monthly,,,8.94,605,10,0,2270.0,6.21,5-7 years,107.28,,,Low Risk,,,,
+6528-IWZHQ,kamala,Nepal,Kathmandu,Male,1966-03-29,60,56-65,2019-12-13,Organic,2020-12-13,Basic,Annual,,,9.41,655,13,0,2474.0,6.77,5-7 years,112.92,,,Low Risk,1.0,0.0,49.0,2025-12-18
+2925-PZAPI,ajay,India,Bihar,Male,1987-12-11,39,36-45,2024-02-05,Referral,2025-02-05,Standard,Annual,2024-03-09,Forgot to cancel trial,15.75,256,89,1,33.0,0.09,0-1 years,189.0,2024.0,3.0,High Risk,2.0,1.0,43.0,2025-12-21
+4173-BLNUR,vikram,India,Kerala,Female,1968-02-21,58,56-65,2024-08-02,Referral,2025-08-02,Premium,Annual,,,22.17,276,4,0,780.0,2.14,1-3 years,266.04,,,Low Risk,2.0,2.0,18.5,2024-03-21
+5409-QRDXN,yash,India,Gujarat,Female,1996-04-11,30,26-35,2019-06-05,Paid,2020-06-05,Standard,Monthly,,,16.51,1213,11,0,2665.0,7.3,7+ years,198.12,,,Low Risk,,,,
+2085-ERJTE,ramesh,India,Punjab,Male,2002-05-26,24,18-25,2024-11-26,Referral,2025-11-26,Premium,Annual,,,25.91,187,41,0,664.0,1.82,1-3 years,310.92,,,Medium Risk,,,,
+3443-LPRML,rahul,India,Telangana,Female,2000-08-09,26,26-35,2019-12-29,Organic,2020-12-29,Basic,Monthly,,,8.88,618,21,0,2458.0,6.73,5-7 years,106.56,,,Low Risk,2.0,2.0,33.5,2025-09-08
+2780-RHRQC,priya,India,West Bengal,Female,2001-03-07,25,18-25,2019-08-05,Referral,2020-08-05,Premium,Monthly,,,23.67,1677,38,0,2604.0,7.13,7+ years,284.04,,,Medium Risk,,,,
+0757-GMWBK,nisha,India,Punjab,Female,1982-12-05,44,36-45,2022-09-19,Organic,2023-09-19,Standard,Annual,,,17.79,541,40,0,1463.0,4.01,3-5 years,213.48,,,Medium Risk,,,,
+0090-XWXUF,ashok,India,Odisha,Male,1990-01-02,36,36-45,2022-05-30,Organic,2023-05-30,Standard,Monthly,2024-02-16,No longer needed,15.81,589,71,1,627.0,1.72,1-3 years,189.72,2024.0,2.0,High Risk,1.0,0.0,61.0,2025-01-07
+1988-LURZP,om,India,Telangana,Female,2002-04-05,24,18-25,2019-04-22,Organic,2020-04-22,Basic,Monthly,,,7.24,505,19,0,2709.0,7.42,7+ years,86.88,,,Low Risk,2.0,1.0,43.5,2025-03-05
+7305-XTMGG,asha,India,Telangana,Female,1993-02-11,33,26-35,2021-11-18,Paid,2022-11-18,Basic,Monthly,,,7.32,345,25,0,1768.0,4.84,3-5 years,87.84,,,Low Risk,,,,
+7206-CHHIO,raghvendra,India,Meghalaya,Female,1982-03-08,44,36-45,2020-12-19,Paid,2021-12-19,Basic,Annual,,,9.09,546,23,0,2102.0,5.75,5-7 years,109.08,,,Low Risk,,,,
+3505-BKOKF,nandini,India,Punjab,Male,1996-03-14,30,26-35,2019-12-12,Referral,2020-12-12,Premium,Monthly,,,23.97,1742,26,0,2475.0,6.78,5-7 years,287.64,,,Low Risk,2.0,1.0,26.5,2025-08-03
+7814-AJTWY,nandini,Nepal,Kathmandu,Female,1997-12-15,29,26-35,2021-09-01,Paid,2022-09-01,Standard,Monthly,,,16.62,792,5,0,1846.0,5.05,5-7 years,199.44,,,Low Risk,,,,
+9883-XMHMK,kamala,India,Rajasthan,Female,2006-04-01,20,18-25,2021-12-18,Referral,2022-12-18,Premium,Monthly,,,21.57,899,49,0,1738.0,4.76,3-5 years,258.84000000000003,,,Medium Risk,,,,
+0441-XPRCL,indira,India,Rajasthan,Male,1976-09-02,50,46-55,2024-12-21,Referral,2025-12-21,Basic,Annual,,,9.04,53,29,0,639.0,1.75,1-3 years,108.47999999999999,,,Low Risk,,,,
+3467-LIWHY,nandini,India,Tamil Nadu,Male,1986-02-05,40,36-45,2019-02-18,Organic,2020-02-18,Basic,Annual,,,9.38,686,4,0,2772.0,7.59,7+ years,112.56,,,Low Risk,,,,
+0853-ZJQUQ,mohan,India,Uttar Pradesh,Female,2002-08-24,24,18-25,2020-02-03,Paid,2021-02-03,Premium,Annual,,,24.18,1790,23,0,2422.0,6.63,5-7 years,290.15999999999997,,,Low Risk,2.0,2.0,34.0,2024-10-05
+3908-DROFS,neha,India,Rajasthan,Male,1992-03-29,34,26-35,2022-01-12,Referral,2023-01-12,Basic,Annual,,,7.28,332,48,0,1713.0,4.69,3-5 years,87.36,,,Medium Risk,2.0,1.0,22.5,2025-03-15
+1876-UEIPY,gopal,India,Punjab,Female,1973-11-24,53,46-55,2021-03-09,Organic,2022-03-09,Standard,Monthly,,,16.38,871,55,0,2022.0,5.54,5-7 years,196.56,,,Medium Risk,1.0,1.0,13.0,2025-05-31
+1669-SHRUU,durga,India,Kerala,Male,1984-03-20,42,36-45,2019-10-06,Organic,2020-10-06,Basic,Monthly,2022-09-01,Too expensive,7.28,499,79,1,1061.0,2.9,1-3 years,87.36,2022.0,9.0,High Risk,1.0,0.0,24.0,2025-12-20
+1129-NIWVC,alok,India,Odisha,Female,1971-11-12,55,46-55,2019-05-20,Paid,2020-05-20,Basic,Monthly,,,7.27,563,9,0,2681.0,7.34,7+ years,87.24,,,Low Risk,,,,
+8548-ZHVNM,ritu,Nepal,Kathmandu,Male,1979-06-17,47,46-55,2019-12-20,Referral,2020-12-20,Premium,Monthly,2023-10-02,Switched to competitor,21.64,1541,84,1,1382.0,3.78,3-5 years,259.68,2023.0,10.0,High Risk,2.0,0.0,25.0,2025-11-29
+1419-HLTOR,usha,India,Maharashtra,Female,2003-03-05,23,18-25,2024-02-01,Organic,2025-02-01,Premium,Annual,,,22.37,430,22,0,963.0,2.64,1-3 years,268.44,,,Low Risk,1.0,0.0,89.0,2024-10-05
+7988-FUIWS,asha,Nepal,Kathmandu,Male,1988-03-05,38,36-45,2021-11-20,Referral,2022-11-20,Basic,Monthly,,,7.21,306,18,0,1766.0,4.84,3-5 years,86.52,,,Low Risk,,,,
+1402-GKOGM,satish,India,Odisha,Male,1969-03-05,57,56-65,2021-12-20,Paid,2022-12-20,Basic,Monthly,,,7.2,299,8,0,1736.0,4.75,3-5 years,86.4,,,Low Risk,,,,
+6625-RHPMN,pankaj,Nepal,Kathmandu,Male,1980-10-13,46,46-55,2020-08-12,Referral,2021-08-12,Standard,Monthly,2021-02-02,Forgot to cancel trial,15.15,958,72,1,174.0,0.48,0-1 years,181.8,2021.0,2.0,High Risk,2.0,2.0,27.5,2025-05-25
+4438-HFSIT,kavita,India,Telangana,Female,1998-02-18,28,26-35,2021-10-23,Paid,2022-10-23,Premium,Annual,2024-01-30,Not enough content,21.08,989,71,1,829.0,2.27,1-3 years,252.95999999999998,2024.0,1.0,High Risk,,,,
+9659-ZNHCF,amit,India,Kerala,Female,1978-07-24,48,46-55,2020-09-12,Paid,2021-09-12,Standard,Monthly,,,17.51,1086,32,0,2200.0,6.02,5-7 years,210.12,,,Medium Risk,,,,
+2073-HZOSD,satish,India,Nagaland,Male,1990-10-02,36,36-45,2023-11-22,Paid,2024-11-22,Standard,Monthly,,,16.63,298,46,0,1034.0,2.83,1-3 years,199.56,,,Medium Risk,1.0,0.0,44.0,2025-06-03
+7843-LEBYM,maya,India,Punjab,Female,1968-04-28,58,56-65,2024-05-28,Organic,2025-05-28,Basic,Annual,,,8.6,120,42,0,846.0,2.32,1-3 years,103.19999999999999,,,Medium Risk,,,,
+0878-DVYCG,nandini,India,Uttar Pradesh,Male,1982-01-24,44,36-45,2020-01-07,Referral,2021-01-07,Standard,Annual,,,17.26,1269,20,0,2449.0,6.7,5-7 years,207.12,,,Low Risk,2.0,1.0,34.5,2025-04-14
+7253-HPLOB,chitra,India,Telangana,Female,1974-06-20,52,46-55,2021-04-11,Organic,2022-04-11,Basic,Annual,,,7.11,331,59,0,1989.0,5.45,5-7 years,85.32000000000001,,,Medium Risk,,,,
+1330-EEBAL,naresh,India,West Bengal,Male,1975-05-21,51,46-55,2020-03-13,Organic,2021-03-13,Standard,Monthly,2021-05-12,Switched to competitor,14.79,936,71,1,425.0,1.16,1-3 years,177.48,2021.0,5.0,High Risk,1.0,0.0,21.0,2025-01-07
+4632-SLRYU,vikram,India,Bihar,Male,1989-06-06,37,36-45,2021-09-03,Referral,2022-09-03,Standard,Annual,,,13.3,625,30,0,1844.0,5.05,5-7 years,159.60000000000002,,,Low Risk,,,,
+2441-XVBEH,vijay,India,Odisha,Male,1986-01-10,40,36-45,2019-03-09,Referral,2020-03-09,Basic,Monthly,,,7.16,487,44,0,2753.0,7.54,7+ years,85.92,,,Medium Risk,,,,
+6594-YNMCB,ritu,India,Gujarat,Male,1976-03-26,50,46-55,2024-11-12,Organic,2025-11-12,Standard,Monthly,,,16.38,128,4,0,678.0,1.86,1-3 years,196.56,,,Low Risk,1.0,0.0,34.0,2025-01-15
+9424-PATVO,deepak,India,Delhi,Male,1994-03-24,32,26-35,2020-08-02,Paid,2021-08-02,Standard,Monthly,2024-03-19,Switched to competitor,13.09,829,75,1,1325.0,3.63,3-5 years,157.07999999999998,2024.0,3.0,High Risk,1.0,1.0,9.0,2024-01-11
+4557-EPQMC,dinesh,India,Bihar,Male,1979-05-28,47,46-55,2022-06-12,Paid,2023-06-12,Premium,Monthly,,,21.48,693,9,0,1562.0,4.28,3-5 years,257.76,,,Low Risk,2.0,1.0,28.5,2025-10-30
+2634-ISHYV,mira,India,Odisha,Male,1979-02-10,47,46-55,2024-07-29,Paid,2025-07-29,Standard,Monthly,,,16.07,175,49,0,784.0,2.15,1-3 years,192.84,,,Medium Risk,1.0,1.0,35.0,2025-11-09
+1899-ZKNZR,indira,India,Bihar,Male,1973-06-01,53,46-55,2023-07-05,Organic,2024-07-05,Basic,Monthly,,,9.92,264,50,0,1174.0,3.21,3-5 years,119.03999999999999,,,Medium Risk,1.0,0.0,24.0,2024-09-10
+8167-QTFOY,om,India,Delhi,Male,1966-04-18,60,56-65,2019-07-06,Organic,2020-07-06,Standard,Monthly,,,14.67,953,46,0,2634.0,7.21,7+ years,176.04,,,Medium Risk,1.0,1.0,12.0,2024-07-01
+9975-USIAK,sneha,India,Nagaland,Female,1970-04-09,56,56-65,2023-02-24,Paid,2024-02-24,Standard,Monthly,,,15.18,381,41,0,1305.0,3.57,3-5 years,182.16,,,Medium Risk,1.0,1.0,25.0,2024-05-02
+2522-MSNHV,naresh,India,Uttar Pradesh,Female,1989-09-23,37,36-45,2023-03-21,Referral,2024-03-21,Premium,Annual,2025-04-12,Billing issue,21.07,497,72,1,753.0,2.06,1-3 years,252.84,2025.0,4.0,High Risk,1.0,0.0,45.0,2025-03-01
+9820-NWWHU,nandini,India,Gujarat,Male,1976-12-26,50,46-55,2022-03-08,Organic,2023-03-08,Standard,Annual,2025-03-13,Poor streaming quality,17.03,609,78,1,1101.0,3.01,3-5 years,204.36,2025.0,3.0,High Risk,,,,
+4634-SVPRW,bhavna,Nepal,Kathmandu,Female,1980-06-25,46,46-55,2023-08-15,Paid,2024-08-15,Basic,Monthly,,,7.51,155,7,0,1133.0,3.1,3-5 years,90.12,,,Low Risk,1.0,1.0,39.0,2024-06-30
+8903-JYWZG,radha,India,Uttar Pradesh,Female,1966-12-17,60,56-65,2022-05-18,Paid,2023-05-18,Basic,Monthly,,,7.0,235,8,0,1587.0,4.34,3-5 years,84.0,,,Low Risk,,,,
+7749-SVKRV,sudevi,India,Delhi,Male,1970-08-31,56,56-65,2023-01-22,Referral,2024-01-22,Premium,Monthly,,,25.92,831,19,0,1338.0,3.66,3-5 years,311.04,,,Low Risk,,,,
+9669-ICVCX,raghav,India,Meghalaya,Female,2004-01-26,22,18-25,2019-08-06,Referral,2020-08-06,Basic,Annual,,,9.38,608,4,0,2603.0,7.13,7+ years,112.56,,,Low Risk,,,,
+2529-BUGQK,shiva,India,Gujarat,Female,2003-07-20,23,18-25,2019-08-10,Organic,2020-08-10,Standard,Annual,,,14.42,982,50,0,2599.0,7.12,7+ years,173.04,,,Medium Risk,1.0,1.0,28.0,2024-07-14
+5188-QXMOQ,priya,India,West Bengal,Female,1998-07-02,28,26-35,2024-01-31,Paid,2025-01-31,Basic,Monthly,,,9.21,171,9,0,964.0,2.64,1-3 years,110.52000000000001,,,Low Risk,,,,
+1646-LSXBU,meena,India,Kerala,Male,1984-04-27,42,36-45,2019-10-18,Referral,2020-10-18,Premium,Annual,,,24.6,1552,22,0,2530.0,6.93,5-7 years,295.20000000000005,,,Low Risk,,,,
+6751-OUECW,priya,India,Delhi,Male,1971-06-03,55,46-55,2021-07-31,Paid,2022-07-31,Premium,Monthly,,,22.62,1155,26,0,1878.0,5.14,5-7 years,271.44,,,Low Risk,2.0,0.0,58.0,2025-06-07
+4161-LRXMH,anita,India,Delhi,Female,1980-07-02,46,46-55,2021-06-22,Referral,2022-06-22,Basic,Monthly,,,8.75,382,31,0,1917.0,5.25,5-7 years,105.0,,,Medium Risk,,,,
+4901-QLGVF,radha,India,Delhi,Male,1975-08-23,51,46-55,2020-12-30,Organic,2021-12-30,Standard,Monthly,2021-10-16,Switched to competitor,13.67,716,80,1,290.0,0.79,0-1 years,164.04,2021.0,10.0,High Risk,,,,
+5881-OZHZR,asha,India,Maharashtra,Male,2003-10-22,23,18-25,2019-09-02,Referral,2020-09-02,Basic,Annual,,,7.32,506,16,0,2576.0,7.05,7+ years,87.84,,,Low Risk,,,,
+0803-XTVXU,amit,India,Kerala,Female,1993-07-23,33,26-35,2022-04-23,Paid,2023-04-23,Standard,Monthly,,,16.94,749,7,0,1612.0,4.41,3-5 years,203.28000000000003,,,Low Risk,1.0,1.0,29.0,2025-06-29
+2240-QXQIL,alok,India,Meghalaya,Male,2005-10-21,21,18-25,2023-08-14,Paid,2024-08-14,Premium,Monthly,,,23.44,531,2,0,1134.0,3.1,3-5 years,281.28000000000003,,,Low Risk,1.0,1.0,40.0,2025-02-13
+6807-EDOZN,kiran,India,Rajasthan,Male,2006-01-01,20,18-25,2023-10-20,Referral,2024-10-20,Standard,Annual,,,14.22,300,39,0,1067.0,2.92,1-3 years,170.64000000000001,,,Medium Risk,1.0,1.0,8.0,2025-01-12
+7894-ZHWUM,arjun,India,Meghalaya,Female,2003-08-02,23,18-25,2020-09-02,Referral,2021-09-02,Premium,Annual,,,25.48,1290,51,0,2210.0,6.05,5-7 years,305.76,,,Medium Risk,1.0,0.0,24.0,2025-06-14
+6511-ZUJUA,rikim,India,Odisha,Male,1995-03-08,31,26-35,2024-08-27,Organic,2025-08-27,Basic,Annual,,,8.58,96,17,0,755.0,2.07,1-3 years,102.96000000000001,,,Low Risk,,,,
+4295-PVYCG,mohan,Nepal,Kathmandu,Male,2006-01-21,20,18-25,2019-12-07,Paid,2020-12-07,Standard,Annual,,,13.05,786,43,0,2480.0,6.79,5-7 years,156.60000000000002,,,Medium Risk,,,,
+1035-QMSQD,durga,India,Karnataka,Male,1987-02-06,39,36-45,2020-01-07,Organic,2021-01-07,Basic,Monthly,,,9.0,592,39,0,2449.0,6.7,5-7 years,108.0,,,Medium Risk,2.0,1.0,27.0,2025-07-18
+8807-DLRTY,nandini,Nepal,Kathmandu,Female,1997-08-05,29,26-35,2019-04-10,Organic,2020-04-10,Premium,Monthly,,,23.31,1715,25,0,2721.0,7.45,7+ years,279.71999999999997,,,Low Risk,,,,
+1622-VQYHR,rahul,India,Odisha,Female,1975-08-05,51,46-55,2024-03-16,Referral,2025-03-16,Standard,Monthly,,,13.0,228,4,0,919.0,2.52,1-3 years,156.0,,,Low Risk,,,,
+1627-ZJXQB,asha,India,Telangana,Male,2003-01-16,23,18-25,2022-04-29,Organic,2023-04-29,Standard,Monthly,,,14.34,483,49,0,1606.0,4.4,3-5 years,172.07999999999998,,,Medium Risk,,,,
+1501-RQPAU,rajesh,India,Meghalaya,Male,1974-03-17,52,46-55,2019-08-13,Referral,2020-08-13,Standard,Annual,,,17.54,1109,41,0,2596.0,7.11,7+ years,210.48,,,Medium Risk,,,,
+3394-PVGUU,keshav,India,Tamil Nadu,Female,1970-10-31,56,56-65,2019-06-17,Paid,2020-06-17,Standard,Monthly,2022-03-20,Forgot to cancel trial,13.87,1083,80,1,1007.0,2.76,1-3 years,166.44,2022.0,3.0,High Risk,,,,
+2858-CWDJU,rekha,India,Maharashtra,Female,1976-11-26,50,46-55,2020-04-10,Organic,2021-04-10,Standard,Monthly,,,16.68,1143,59,0,2355.0,6.45,5-7 years,200.16,,,Medium Risk,,,,
+8619-CBLJP,bhavna,India,Telangana,Female,1992-08-04,34,26-35,2021-12-31,Referral,2022-12-31,Standard,Monthly,,,15.1,618,34,0,1725.0,4.72,3-5 years,181.2,,,Medium Risk,1.0,0.0,55.0,2024-06-13
+4941-LZBMK,raju,India,Delhi,Female,2005-10-22,21,18-25,2024-11-27,Referral,2025-11-27,Premium,Annual,,,23.34,173,46,0,663.0,1.82,1-3 years,280.08,,,Medium Risk,,,,
+1323-IDDQP,rekha,India,Punjab,Male,1988-10-19,38,36-45,2019-09-26,Referral,2020-09-26,Basic,Monthly,2021-01-15,Too expensive,9.64,653,72,1,477.0,1.31,1-3 years,115.68,2021.0,1.0,High Risk,,,,
+8282-PCSWQ,rahul,India,Bihar,Female,2004-11-02,22,18-25,2022-02-04,Paid,2023-02-04,Basic,Monthly,,,7.43,309,20,0,1690.0,4.63,3-5 years,89.16,,,Low Risk,,,,
+5553-VKSII,geeta,India,Kerala,Female,1995-10-23,31,26-35,2023-09-03,Referral,2024-09-03,Premium,Monthly,,,23.7,501,43,0,1114.0,3.05,3-5 years,284.4,,,Medium Risk,,,,
+1099-CCLTJ,vishakha,Nepal,Kathmandu,Male,1991-04-23,35,26-35,2019-03-29,Paid,2020-03-29,Basic,Monthly,,,7.18,570,23,0,2733.0,7.48,7+ years,86.16,,,Low Risk,,,,
+9202-IDJRT,mina,India,West Bengal,Male,1979-01-07,47,46-55,2022-08-29,Referral,2023-08-29,Standard,Annual,2023-08-07,Too expensive,16.32,530,95,1,343.0,0.94,0-1 years,195.84,2023.0,8.0,High Risk,,,,
+9468-NEMWJ,neha,India,Nagaland,Male,1990-10-03,36,36-45,2021-11-30,Referral,2022-11-30,Basic,Annual,,,8.11,316,12,0,1756.0,4.81,3-5 years,97.32,,,Low Risk,,,,
+7030-VZVPQ,mohan,India,Tamil Nadu,Male,1973-02-03,53,46-55,2020-10-20,Organic,2021-10-20,Standard,Monthly,,,14.42,871,11,0,2162.0,5.92,5-7 years,173.04,,,Low Risk,,,,
+5062-XJEDR,maya,India,Meghalaya,Female,1993-05-27,33,26-35,2020-10-22,Paid,2021-10-22,Basic,Annual,2022-01-15,Forgot to cancel trial,7.11,360,75,1,450.0,1.23,1-3 years,85.32000000000001,2022.0,1.0,High Risk,,,,
+1503-TFKIJ,rekha,Nepal,Kathmandu,Male,1968-10-23,58,56-65,2019-05-23,Organic,2020-05-23,Standard,Monthly,,,17.88,1308,36,0,2678.0,7.33,7+ years,214.56,,,Medium Risk,,,,
+2549-EQRHR,satish,India,Odisha,Female,1977-04-03,49,46-55,2022-05-20,Paid,2023-05-20,Basic,Annual,,,7.06,303,11,0,1585.0,4.34,3-5 years,84.72,,,Low Risk,1.0,1.0,11.0,2024-05-27
+8394-CLHRM,sunita,India,Karnataka,Female,1982-09-24,44,36-45,2019-01-18,Organic,2020-01-18,Premium,Annual,,,23.72,1976,20,0,2803.0,7.67,7+ years,284.64,,,Low Risk,1.0,1.0,22.0,2025-12-09
+0897-AHFDG,rekha,India,Nagaland,Male,1987-04-25,39,36-45,2020-08-25,Organic,2021-08-25,Premium,Annual,,,24.63,1535,59,0,2218.0,6.07,5-7 years,295.56,,,Medium Risk,1.0,1.0,9.0,2024-07-03
+2878-DNFOR,seema,India,Delhi,Female,2003-08-29,23,18-25,2019-06-14,Referral,2020-06-14,Basic,Annual,,,8.64,617,30,0,2656.0,7.27,7+ years,103.68,,,Low Risk,,,,
+7147-AXWOO,nandini,India,West Bengal,Male,1983-03-04,43,36-45,2023-01-03,Paid,2024-01-03,Basic,Monthly,,,7.16,218,51,0,1357.0,3.72,3-5 years,85.92,,,Medium Risk,,,,
+2815-UQVXC,raju,India,Uttar Pradesh,Female,1991-06-02,35,26-35,2022-02-12,Organic,2023-02-12,Basic,Annual,2024-05-29,Too expensive,7.24,313,86,1,837.0,2.29,1-3 years,86.88,2024.0,5.0,High Risk,,,,
+1288-KIIIE,lata,India,Nagaland,Male,1987-11-17,39,36-45,2024-07-01,Organic,2025-07-01,Basic,Monthly,2025-03-06,Not enough content,8.81,102,97,1,248.0,0.68,0-1 years,105.72,2025.0,3.0,High Risk,,,,
+5752-SVVGD,vikram,India,Rajasthan,Male,1971-11-10,55,46-55,2023-05-01,Organic,2024-05-01,Standard,Annual,,,14.41,434,7,0,1239.0,3.39,3-5 years,172.92000000000002,,,Low Risk,,,,
+1234-EUMTT,bhavna,Nepal,Kathmandu,Female,1993-07-01,33,26-35,2021-06-02,Referral,2022-06-02,Standard,Annual,,,15.21,707,59,0,1937.0,5.3,5-7 years,182.52,,,Medium Risk,,,,
+5295-WQDBL,ramesh,India,Tamil Nadu,Male,1967-07-10,59,56-65,2023-10-03,Paid,2024-10-03,Standard,Monthly,,,15.06,291,57,0,1084.0,2.97,1-3 years,180.72,,,Medium Risk,,,,
+1215-ILBVB,rangadevi,India,Telangana,Female,1985-10-04,41,36-45,2024-11-21,Referral,2025-11-21,Premium,Annual,,,21.32,133,19,0,669.0,1.83,1-3 years,255.84,,,Low Risk,1.0,0.0,91.0,2025-11-06
+0672-LVQIM,sudevi,India,Karnataka,Female,1969-08-23,57,56-65,2023-08-25,Paid,2024-08-25,Basic,Monthly,,,8.38,170,37,0,1123.0,3.07,3-5 years,100.56,,,Medium Risk,1.0,0.0,70.0,2025-06-24
+5626-ZCQBS,om,India,Telangana,Male,1992-05-10,34,26-35,2024-07-02,Referral,2025-07-02,Basic,Annual,,,9.47,116,3,0,811.0,2.22,1-3 years,113.64000000000001,,,Low Risk,,,,
+4634-KURBQ,manoj,India,Delhi,Male,1969-03-29,57,56-65,2019-01-11,Referral,2020-01-11,Basic,Annual,,,7.89,649,28,0,2810.0,7.69,7+ years,94.67999999999999,,,Low Risk,1.0,0.0,70.0,2025-04-16
+6333-HSRXW,manoj,India,Delhi,Male,1994-10-08,32,26-35,2021-01-04,Referral,2022-01-04,Standard,Monthly,2024-06-13,Billing issue,16.43,794,72,1,1256.0,3.44,3-5 years,197.16,2024.0,6.0,High Risk,,,,
+5082-ZSKPY,sunita,Nepal,Kathmandu,Female,1993-11-12,33,26-35,2023-01-21,Organic,2024-01-21,Standard,Annual,,,15.82,496,54,0,1339.0,3.67,3-5 years,189.84,,,Medium Risk,,,,
+2093-RVTRN,pankaj,India,Telangana,Male,1965-10-26,61,56-65,2020-05-04,Organic,2021-05-04,Standard,Monthly,2023-01-03,Billing issue,16.65,939,80,1,974.0,2.67,1-3 years,199.79999999999998,2023.0,1.0,High Risk,,,,
+2953-YITEZ,sudevi,India,Delhi,Male,2002-11-18,24,18-25,2020-07-08,Referral,2021-07-08,Standard,Annual,,,13.25,835,5,0,2266.0,6.2,5-7 years,159.0,,,Low Risk,,,,
+8317-UVWAI,vishakha,India,Punjab,Female,1972-04-12,54,46-55,2022-04-02,Paid,2023-04-02,Basic,Monthly,,,8.91,319,50,0,1633.0,4.47,3-5 years,106.92,,,Medium Risk,,,,
+7170-BJSZP,bhavna,India,Uttar Pradesh,Male,1975-09-24,51,46-55,2020-01-23,Organic,2021-01-23,Standard,Annual,,,13.83,1004,21,0,2433.0,6.66,5-7 years,165.96,,,Low Risk,,,,
+7684-XFROL,vijay,India,Punjab,Male,1988-08-29,38,36-45,2022-01-16,Paid,2023-01-16,Standard,Monthly,,,16.43,707,2,0,1709.0,4.68,3-5 years,197.16,,,Low Risk,,,,
+2655-VUDGQ,neha,Nepal,Kathmandu,Male,1996-11-29,30,26-35,2020-07-14,Referral,2021-07-14,Standard,Annual,,,14.86,854,8,0,2260.0,6.19,5-7 years,178.32,,,Low Risk,1.0,1.0,27.0,2025-07-17
+2042-HTHXD,ritu,India,Delhi,Female,2001-08-20,25,18-25,2021-06-11,Paid,2022-06-11,Basic,Monthly,,,7.65,390,35,0,1928.0,5.28,5-7 years,91.80000000000001,,,Medium Risk,1.0,0.0,63.0,2024-02-03
+5727-YKKJK,shiva,India,Kerala,Female,1966-04-07,60,56-65,2024-12-19,Referral,2025-12-19,Standard,Monthly,2025-02-20,Switched to competitor,16.5,104,96,1,63.0,0.17,0-1 years,198.0,2025.0,2.0,High Risk,2.0,1.0,45.0,2025-11-27
+1623-VQUDH,naresh,India,Meghalaya,Female,1986-01-16,40,36-45,2024-05-18,Referral,2025-05-18,Basic,Monthly,,,9.06,137,50,0,856.0,2.34,1-3 years,108.72,,,Medium Risk,2.0,0.0,61.5,2025-01-29
+0086-XAFDY,pankaj,India,Nagaland,Male,1975-08-30,51,46-55,2022-11-02,Paid,2023-11-02,Basic,Monthly,,,7.9,227,46,0,1419.0,3.89,3-5 years,94.80000000000001,,,Medium Risk,,,,
+0782-GQQBV,padma,Nepal,Kathmandu,Male,1993-05-07,33,26-35,2021-07-17,Referral,2022-07-17,Basic,Monthly,,,7.62,387,6,0,1892.0,5.18,5-7 years,91.44,,,Low Risk,,,,
+3963-SHAJO,kavita,India,Delhi,Male,1981-03-06,45,36-45,2019-03-19,Paid,2020-03-19,Premium,Monthly,,,24.78,1672,34,0,2743.0,7.51,7+ years,297.36,,,Medium Risk,,,,
+8914-NZOKM,radha,India,Kerala,Male,1998-07-11,28,26-35,2019-08-31,Referral,2020-08-31,Standard,Monthly,2021-02-18,Forgot to cancel trial,17.53,1170,73,1,537.0,1.47,1-3 years,210.36,2021.0,2.0,High Risk,1.0,0.0,70.0,2024-01-10
+5649-GRCPT,raghvendra,India,Karnataka,Male,1989-06-29,37,36-45,2021-04-21,Referral,2022-04-21,Standard,Annual,,,13.99,626,19,0,1979.0,5.42,5-7 years,167.88,,,Low Risk,,,,
+2868-VRZME,raghvendra,India,Delhi,Female,1999-10-27,27,26-35,2022-11-25,Paid,2023-11-25,Standard,Monthly,2025-02-13,Switched to competitor,17.27,557,88,1,811.0,2.22,1-3 years,207.24,2025.0,2.0,High Risk,1.0,1.0,25.0,2024-05-05
+0605-HBFBY,lata,India,Punjab,Male,1986-03-28,40,36-45,2024-12-06,Paid,2025-12-06,Basic,Annual,,,7.56,58,48,0,654.0,1.79,1-3 years,90.72,,,Medium Risk,,,,
+3131-HWBRH,neha,India,Bihar,Female,1998-05-06,28,26-35,2020-02-09,Organic,2021-02-09,Premium,Annual,2020-10-15,Too expensive,25.59,1778,91,1,249.0,0.68,0-1 years,307.08,2020.0,10.0,High Risk,1.0,1.0,25.0,2024-08-10
+6334-IERJU,kiran,India,Delhi,Female,1984-01-17,42,36-45,2022-12-24,Referral,2023-12-24,Premium,Monthly,,,23.11,625,9,0,1367.0,3.74,3-5 years,277.32,,,Low Risk,,,,
+8937-HCIHL,pankaj,India,Rajasthan,Female,1984-11-29,42,36-45,2024-03-23,Organic,2025-03-23,Basic,Annual,,,7.4,107,7,0,912.0,2.5,1-3 years,88.80000000000001,,,Low Risk,,,,
+0693-SXPLQ,madan,India,Delhi,Female,1993-08-07,33,26-35,2022-09-05,Paid,2023-09-05,Standard,Annual,,,14.91,547,55,0,1477.0,4.04,3-5 years,178.92000000000002,,,Medium Risk,,,,
+8406-URYDP,om,India,Karnataka,Female,1968-01-07,58,56-65,2023-12-24,Paid,2024-12-24,Basic,Annual,,,8.21,167,53,0,1002.0,2.74,1-3 years,98.52000000000001,,,Medium Risk,,,,
+6001-JYADL,neha,India,Kerala,Female,1999-03-26,27,26-35,2024-05-02,Organic,2025-05-02,Premium,Monthly,2025-02-23,Billing issue,22.83,321,84,1,297.0,0.81,0-1 years,273.96,2025.0,2.0,High Risk,1.0,1.0,30.0,2024-05-09
+8674-JIHYA,kavita,India,Delhi,Male,1982-05-12,44,36-45,2019-12-15,Organic,2020-12-15,Basic,Monthly,,,8.17,621,6,0,2472.0,6.77,5-7 years,98.03999999999999,,,Low Risk,,,,
+1929-GGLZH,satish,India,Telangana,Male,1971-02-02,55,46-55,2023-01-29,Referral,2024-01-29,Premium,Annual,,,22.68,614,33,0,1331.0,3.64,3-5 years,272.15999999999997,,,Medium Risk,,,,
+7406-ESZVZ,ajay,India,Kerala,Female,1967-11-30,59,56-65,2022-02-14,Organic,2023-02-14,Premium,Annual,,,24.82,1154,44,0,1680.0,4.6,3-5 years,297.84000000000003,,,Medium Risk,2.0,0.0,29.0,2024-11-25
+4757-XWSYQ,alok,India,Telangana,Female,1970-06-12,56,56-65,2023-07-15,Referral,2024-07-15,Premium,Monthly,2024-04-06,Billing issue,23.55,495,85,1,266.0,0.73,0-1 years,282.6,2024.0,4.0,High Risk,,,,
+2275-GMJOM,vishakha,India,Delhi,Male,1978-11-16,48,46-55,2020-07-05,Referral,2021-07-05,Basic,Monthly,,,9.2,588,26,0,2269.0,6.21,5-7 years,110.39999999999999,,,Low Risk,,,,
+7842-NTVBZ,arjun,India,Odisha,Female,1995-07-05,31,26-35,2022-09-01,Referral,2023-09-01,Basic,Monthly,,,8.86,319,33,0,1481.0,4.05,3-5 years,106.32,,,Medium Risk,1.0,1.0,36.0,2024-11-10
+2102-WUQEZ,ritu,India,Telangana,Male,2002-04-18,24,18-25,2024-03-23,Paid,2025-03-23,Basic,Annual,,,8.98,128,57,0,912.0,2.5,1-3 years,107.76,,,Medium Risk,,,,
+4982-EISIY,vijay,India,Delhi,Male,1973-10-22,53,46-55,2019-03-14,Referral,2020-03-14,Premium,Annual,,,21.15,1564,26,0,2748.0,7.52,7+ years,253.79999999999998,,,Low Risk,,,,
+9024-HQPCQ,sudevi,India,Rajasthan,Female,1993-01-05,33,26-35,2023-12-18,Organic,2024-12-18,Standard,Annual,,,13.15,220,21,0,1008.0,2.76,1-3 years,157.8,,,Low Risk,,,,
+9914-IYBWC,sanjay,India,Telangana,Male,1983-09-09,43,36-45,2023-05-13,Organic,2024-05-13,Standard,Annual,,,13.54,357,32,0,1227.0,3.36,3-5 years,162.48,,,Medium Risk,,,,
+0496-MQHYM,kamala,India,West Bengal,Female,1968-04-10,58,56-65,2024-05-03,Referral,2025-05-03,Standard,Monthly,,,13.77,180,26,0,871.0,2.38,1-3 years,165.24,,,Low Risk,,,,
+2589-LMFPI,ajay,India,Kerala,Female,1970-11-13,56,56-65,2022-12-15,Referral,2023-12-15,Premium,Monthly,2024-01-06,No longer needed,22.41,712,81,1,387.0,1.06,1-3 years,268.92,2024.0,1.0,High Risk,2.0,1.0,24.0,2025-08-12
+8437-OIMGG,chitra,India,Karnataka,Male,1982-03-26,44,36-45,2019-04-21,Referral,2020-04-21,Premium,Annual,,,24.12,1779,28,0,2710.0,7.42,7+ years,289.44,,,Low Risk,,,,
+6850-GWEIP,ajay,India,Telangana,Female,1987-05-09,39,36-45,2022-12-09,Organic,2023-12-09,Basic,Monthly,2023-03-16,No longer needed,7.72,226,92,1,97.0,0.27,0-1 years,92.64,2023.0,3.0,High Risk,1.0,0.0,72.0,2024-12-09
+7648-MIAYN,priya,India,Telangana,Male,1980-10-30,46,46-55,2022-06-02,Referral,2023-06-02,Basic,Annual,,,7.5,277,38,0,1572.0,4.3,3-5 years,90.0,,,Medium Risk,,,,
+8108-PVRHA,raju,India,Bihar,Female,2004-08-02,22,18-25,2024-10-09,Paid,2025-10-09,Premium,Annual,,,22.32,168,38,0,712.0,1.95,1-3 years,267.84000000000003,,,Medium Risk,,,,
+5992-TJKOF,vijay,India,Delhi,Female,1987-08-15,39,36-45,2023-05-18,Referral,2024-05-18,Basic,Annual,2024-11-12,No longer needed,7.28,198,85,1,544.0,1.49,1-3 years,87.36,2024.0,11.0,High Risk,,,,
+9008-HZRDZ,harish,India,Kerala,Male,1990-01-09,36,36-45,2022-10-22,Paid,2023-10-22,Basic,Annual,,,7.89,258,52,0,1430.0,3.92,3-5 years,94.67999999999999,,,Medium Risk,1.0,0.0,79.0,2024-12-26
+2363-FNNBD,manoj,India,Delhi,Male,1985-07-02,41,36-45,2019-11-05,Organic,2020-11-05,Premium,Annual,,,23.67,1407,27,0,2512.0,6.88,5-7 years,284.04,,,Low Risk,1.0,1.0,17.0,2024-11-23
+2290-IPEZT,ramesh,Nepal,Kathmandu,Male,1987-10-04,39,36-45,2021-07-14,Paid,2022-07-14,Standard,Monthly,2024-08-04,Poor streaming quality,17.78,815,95,1,1117.0,3.06,3-5 years,213.36,2024.0,8.0,High Risk,1.0,1.0,5.0,2024-08-17
+8721-MOMAI,parvati,India,Bihar,Male,1978-10-20,48,46-55,2023-10-16,Paid,2024-10-16,Basic,Annual,,,9.38,212,36,0,1071.0,2.93,1-3 years,112.56,,,Medium Risk,,,,
+0436-PGRZP,amit,India,Karnataka,Male,1986-07-21,40,36-45,2022-07-07,Organic,2023-07-07,Basic,Annual,2025-06-28,No longer needed,8.2,321,70,1,1087.0,2.98,1-3 years,98.39999999999999,2025.0,6.0,High Risk,1.0,1.0,10.0,2025-10-12
+2421-VGOSE,om,India,Gujarat,Female,1971-10-18,55,46-55,2021-02-03,Organic,2022-02-03,Standard,Annual,,,14.05,851,41,0,2056.0,5.63,5-7 years,168.60000000000002,,,Medium Risk,,,,
+3340-KUXWT,madan,India,Meghalaya,Male,1974-04-21,52,46-55,2023-11-12,Paid,2024-11-12,Premium,Monthly,,,24.62,445,17,0,1044.0,2.86,1-3 years,295.44,,,Low Risk,,,,
+7837-NIEXI,seema,India,Tamil Nadu,Male,1986-09-20,40,36-45,2020-09-08,Referral,2021-09-08,Standard,Annual,,,16.82,930,6,0,2204.0,6.03,5-7 years,201.84,,,Low Risk,,,,
+4571-OFZHH,pooja,India,Delhi,Male,1986-07-11,40,36-45,2021-04-13,Organic,2022-04-13,Premium,Annual,,,22.32,1028,17,0,1987.0,5.44,5-7 years,267.84000000000003,,,Low Risk,,,,
+4480-HOOXK,dinesh,India,Meghalaya,Male,1966-11-21,60,56-65,2023-07-21,Paid,2024-07-21,Basic,Monthly,,,7.44,191,33,0,1158.0,3.17,3-5 years,89.28,,,Medium Risk,1.0,0.0,49.0,2024-08-01
+1294-JLGMF,kiran,Nepal,Kathmandu,Female,1977-03-09,49,46-55,2023-11-22,Paid,2024-11-22,Standard,Monthly,2024-10-01,Billing issue,17.52,318,95,1,314.0,0.86,0-1 years,210.24,2024.0,10.0,High Risk,,,,
+3972-BXFGC,manoj,India,Delhi,Male,1995-07-23,31,26-35,2020-12-21,Referral,2021-12-21,Standard,Annual,,,13.2,629,22,0,2100.0,5.75,5-7 years,158.39999999999998,,,Low Risk,2.0,2.0,16.0,2025-05-10
+0084-ZZEQW,naresh,India,Delhi,Female,1973-12-12,53,46-55,2022-05-05,Organic,2023-05-05,Premium,Annual,,,25.49,1029,27,0,1600.0,4.38,3-5 years,305.88,,,Low Risk,,,,
+4706-IQXCO,mira,India,Rajasthan,Female,2004-07-29,22,18-25,2020-07-29,Paid,2021-07-29,Basic,Monthly,,,8.7,546,51,0,2245.0,6.15,5-7 years,104.39999999999999,,,Medium Risk,1.0,0.0,82.0,2024-08-06
+0595-ZKMYZ,meena,India,Karnataka,Male,1978-05-21,48,46-55,2024-11-21,Paid,2025-11-21,Basic,Monthly,,,9.64,62,23,0,669.0,1.83,1-3 years,115.68,,,Low Risk,,,,
+1758-YILQN,raghvendra,India,Telangana,Female,1977-03-29,49,46-55,2023-05-17,Paid,2024-05-17,Premium,Annual,2024-09-08,Poor streaming quality,24.71,570,78,1,480.0,1.31,1-3 years,296.52,2024.0,9.0,High Risk,1.0,0.0,40.0,2025-08-28
+5417-ELGET,meena,Nepal,Kathmandu,Female,1998-12-21,28,26-35,2021-11-07,Organic,2022-11-07,Premium,Annual,,,21.27,1070,29,0,1779.0,4.87,3-5 years,255.24,,,Low Risk,,,,
+7007-NCRED,rekha,India,Uttar Pradesh,Male,1976-09-12,50,46-55,2024-04-29,Organic,2025-04-29,Standard,Monthly,,,17.81,251,21,0,875.0,2.4,1-3 years,213.71999999999997,,,Low Risk,,,,
+7319-TYHSA,alok,India,Uttar Pradesh,Male,1994-12-16,32,26-35,2019-03-28,Organic,2020-03-28,Standard,Monthly,,,17.52,1399,46,0,2734.0,7.49,7+ years,210.24,,,Medium Risk,,,,
+2616-KNXSI,rikim,India,West Bengal,Male,1992-07-28,34,26-35,2021-09-08,Organic,2022-09-08,Basic,Annual,,,8.14,334,56,0,1839.0,5.03,5-7 years,97.68,,,Medium Risk,2.0,0.0,34.0,2025-11-08
+2188-MLZJS,naresh,Nepal,Kathmandu,Female,2002-01-13,24,18-25,2023-12-18,Organic,2024-12-18,Standard,Annual,,,17.54,307,50,0,1008.0,2.76,1-3 years,210.48,,,Medium Risk,,,,
+4054-RPUNN,alok,India,Delhi,Male,1970-01-13,56,56-65,2021-08-22,Referral,2022-08-22,Basic,Monthly,,,9.57,466,51,0,1856.0,5.08,5-7 years,114.84,,,Medium Risk,,,,
+8281-FNEWL,pooja,Nepal,Kathmandu,Female,1969-01-29,57,56-65,2023-07-23,Referral,2024-07-23,Premium,Monthly,,,22.36,523,55,0,1156.0,3.16,3-5 years,268.32,,,Medium Risk,,,,
+7298-VLNLB,indira,India,West Bengal,Female,1965-12-23,61,56-65,2022-09-24,Paid,2023-09-24,Standard,Monthly,,,17.37,619,24,0,1458.0,3.99,3-5 years,208.44,,,Low Risk,,,,
+0049-TPBIB,madan,India,Delhi,Female,1966-06-04,60,56-65,2023-09-20,Referral,2024-09-20,Standard,Annual,,,17.06,390,43,0,1097.0,3.0,1-3 years,204.71999999999997,,,Medium Risk,1.0,1.0,25.0,2025-02-11
+2948-TTZQK,gopal,India,Odisha,Female,1981-11-07,45,36-45,2021-01-22,Referral,2022-01-22,Standard,Monthly,,,16.95,888,22,0,2068.0,5.66,5-7 years,203.39999999999998,,,Low Risk,,,,
+2178-QJENN,sneha,India,Maharashtra,Male,1978-05-21,48,46-55,2019-12-03,Paid,2020-12-03,Basic,Monthly,,,7.74,554,22,0,2484.0,6.8,5-7 years,92.88,,,Low Risk,,,,
+8920-LJFLE,nisha,India,Nagaland,Male,2001-04-24,25,18-25,2024-01-24,Paid,2025-01-24,Standard,Annual,,,16.67,306,53,0,971.0,2.66,1-3 years,200.04000000000002,,,Medium Risk,1.0,1.0,26.0,2024-05-12
+0256-GBPLR,mina,India,Uttar Pradesh,Female,1966-12-26,60,56-65,2022-02-28,Referral,2023-02-28,Basic,Monthly,,,8.23,371,58,0,1666.0,4.56,3-5 years,98.76,,,Medium Risk,2.0,1.0,30.5,2024-11-17
+3839-OTUDZ,amit,Nepal,Kathmandu,Male,1990-11-27,36,36-45,2021-07-08,Referral,2022-07-08,Basic,Monthly,2022-07-18,Switched to competitor,7.06,390,92,1,375.0,1.03,1-3 years,84.72,2022.0,7.0,High Risk,,,,
+5253-GWZNK,asha,India,Karnataka,Male,1991-07-17,35,26-35,2023-07-01,Referral,2024-07-01,Standard,Monthly,2023-11-28,Switched to competitor,15.99,442,88,1,150.0,0.41,0-1 years,191.88,2023.0,11.0,High Risk,1.0,0.0,73.0,2024-08-13
+2869-QLMZY,gopal,India,Telangana,Male,1996-03-27,30,26-35,2024-11-23,Organic,2025-11-23,Standard,Annual,2025-02-09,No longer needed,17.59,128,76,1,78.0,0.21,0-1 years,211.07999999999998,2025.0,2.0,High Risk,,,,
+2444-HENGF,rishabh,India,Odisha,Male,1990-03-25,36,36-45,2021-12-26,Referral,2022-12-26,Basic,Monthly,,,8.47,400,54,0,1730.0,4.74,3-5 years,101.64000000000001,,,Medium Risk,1.0,1.0,28.0,2024-07-27
+6824-ODGFQ,bhavna,India,Kerala,Male,1989-01-10,37,36-45,2022-03-05,Referral,2023-03-05,Standard,Monthly,2023-07-30,Forgot to cancel trial,13.94,613,78,1,512.0,1.4,1-3 years,167.28,2023.0,7.0,High Risk,,,,
+3120-BJPBB,rahul,India,Delhi,Female,2004-01-02,22,18-25,2024-01-22,Referral,2025-01-22,Premium,Annual,2025-02-09,Poor streaming quality,22.84,340,80,1,384.0,1.05,1-3 years,274.08,2025.0,2.0,High Risk,,,,
+4967-YAYZD,jyoti,India,Uttar Pradesh,Female,1992-02-11,34,26-35,2021-05-19,Referral,2022-05-19,Standard,Annual,2022-10-11,Poor streaming quality,16.53,727,80,1,510.0,1.4,1-3 years,198.36,2022.0,10.0,High Risk,,,,
+6498-XOUJN,seema,India,West Bengal,Male,1981-02-18,45,36-45,2022-12-22,Referral,2023-12-22,Premium,Monthly,,,25.69,730,21,0,1369.0,3.75,3-5 years,308.28000000000003,,,Low Risk,,,,
+8147-MUSTI,pooja,India,Kerala,Male,1983-07-27,43,36-45,2023-06-05,Paid,2024-06-05,Standard,Monthly,2024-06-16,Poor streaming quality,13.65,310,85,1,377.0,1.03,1-3 years,163.8,2024.0,6.0,High Risk,1.0,0.0,39.0,2024-09-21
+2390-AOPSH,vikram,India,Gujarat,Female,1982-01-15,44,36-45,2020-06-24,Paid,2021-06-24,Basic,Annual,,,9.12,516,10,0,2280.0,6.24,5-7 years,109.44,,,Low Risk,,,,
+4026-MRRGV,satish,India,Odisha,Female,1997-11-14,29,26-35,2024-08-06,Referral,2025-08-06,Premium,Annual,,,25.16,257,41,0,776.0,2.12,1-3 years,301.92,,,Medium Risk,,,,
+2773-DOEXZ,madan,India,Telangana,Male,2002-08-22,24,18-25,2021-12-16,Organic,2022-12-16,Standard,Monthly,,,15.17,699,11,0,1740.0,4.76,3-5 years,182.04,,,Low Risk,,,,
+0794-TKVGS,raghav,India,Telangana,Male,1985-06-16,41,36-45,2023-12-08,Paid,2024-12-08,Basic,Monthly,2025-04-29,Poor streaming quality,7.44,121,92,1,508.0,1.39,1-3 years,89.28,2025.0,4.0,High Risk,,,,
+7916-RANKA,asha,Nepal,Kathmandu,Male,1965-10-08,61,56-65,2020-04-20,Referral,2021-04-20,Premium,Monthly,,,25.63,1550,33,0,2345.0,6.42,5-7 years,307.56,,,Medium Risk,1.0,0.0,46.0,2025-04-10
+7054-UXCCD,nisha,India,Telangana,Male,2001-07-27,25,18-25,2024-02-18,Referral,2025-02-18,Standard,Monthly,2024-06-19,No longer needed,17.22,272,79,1,122.0,0.33,0-1 years,206.64,2024.0,6.0,High Risk,1.0,0.0,13.0,2024-03-21
+6502-CYLGS,ramesh,India,Delhi,Female,2003-07-02,23,18-25,2020-11-20,Paid,2021-11-20,Standard,Monthly,2024-03-02,Too expensive,17.1,1102,94,1,1198.0,3.28,3-5 years,205.20000000000002,2024.0,3.0,High Risk,,,,
+0519-CJOBA,suresh,India,Delhi,Female,2002-12-02,24,18-25,2023-09-02,Organic,2024-09-02,Premium,Annual,,,22.22,433,20,0,1115.0,3.05,3-5 years,266.64,,,Low Risk,1.0,1.0,10.0,2025-07-28
+5427-OWCNB,rahul,Nepal,Kathmandu,Female,1977-02-28,49,46-55,2020-05-14,Organic,2021-05-14,Standard,Monthly,2024-06-01,Billing issue,15.94,891,96,1,1479.0,4.05,3-5 years,191.28,2024.0,6.0,High Risk,,,,
+4593-XOAYI,pooja,Nepal,Kathmandu,Female,1998-09-29,28,26-35,2024-05-19,Organic,2025-05-19,Standard,Monthly,,,17.77,275,30,0,855.0,2.34,1-3 years,213.24,,,Low Risk,,,,
+6525-YHOOW,manoj,India,Punjab,Female,1971-04-12,55,46-55,2022-08-23,Paid,2023-08-23,Premium,Monthly,,,25.99,1001,20,0,1490.0,4.08,3-5 years,311.88,,,Low Risk,1.0,0.0,31.0,2025-01-23
+1284-NZBLV,usha,India,Punjab,Male,1966-05-01,60,56-65,2022-08-16,Referral,2023-08-16,Premium,Annual,2025-02-17,Poor streaming quality,24.71,837,94,1,916.0,2.51,1-3 years,296.52,2025.0,2.0,High Risk,1.0,1.0,16.0,2025-03-02
+7381-MJYLR,gopal,India,Delhi,Male,1978-04-02,48,46-55,2020-01-01,Referral,2021-01-01,Basic,Annual,,,7.61,476,43,0,2455.0,6.72,5-7 years,91.32000000000001,,,Medium Risk,1.0,0.0,48.0,2024-02-18
+1204-CESQT,ajay,India,Kerala,Male,1969-02-08,57,56-65,2020-09-23,Organic,2021-09-23,Basic,Annual,,,8.46,536,45,0,2189.0,5.99,5-7 years,101.52000000000001,,,Medium Risk,,,,
+7286-JHDEL,lata,India,Bihar,Male,1966-03-07,60,56-65,2020-06-21,Paid,2021-06-21,Standard,Annual,,,13.47,749,26,0,2283.0,6.25,5-7 years,161.64000000000001,,,Low Risk,,,,
+1524-PUWAK,shiva,Nepal,Kathmandu,Female,1990-08-28,36,36-45,2024-05-05,Referral,2025-05-05,Basic,Monthly,,,8.79,134,29,0,869.0,2.38,1-3 years,105.47999999999999,,,Low Risk,,,,
+6237-EGGDE,asha,India,Bihar,Male,1986-09-21,40,36-45,2023-10-11,Organic,2024-10-11,Basic,Annual,,,8.53,163,11,0,1076.0,2.95,1-3 years,102.35999999999999,,,Low Risk,,,,
+5916-GGQPF,raju,India,Meghalaya,Male,1965-04-21,61,56-65,2024-07-21,Organic,2025-07-21,Standard,Monthly,2025-04-21,Not enough content,16.23,184,95,1,274.0,0.75,0-1 years,194.76,2025.0,4.0,High Risk,,,,
+5443-VJWLL,raghvendra,India,West Bengal,Male,1992-01-23,34,26-35,2020-08-31,Paid,2021-08-31,Premium,Annual,,,24.41,1445,5,0,2212.0,6.06,5-7 years,292.92,,,Low Risk,,,,
+3290-MEKIT,satish,Nepal,Kathmandu,Female,1979-08-15,47,46-55,2019-11-10,Referral,2020-11-10,Premium,Annual,,,23.56,1420,38,0,2507.0,6.86,5-7 years,282.71999999999997,,,Medium Risk,,,,
+6437-JYFZE,mohan,India,Odisha,Female,1974-05-28,52,46-55,2021-11-03,Referral,2022-11-03,Standard,Monthly,,,15.92,759,52,0,1783.0,4.88,3-5 years,191.04,,,Medium Risk,1.0,1.0,31.0,2024-08-11
+4773-VBWUR,raghvendra,India,West Bengal,Female,1976-05-02,50,46-55,2021-01-16,Organic,2022-01-16,Premium,Annual,,,21.22,1080,31,0,2074.0,5.68,5-7 years,254.64,,,Medium Risk,1.0,0.0,91.0,2024-07-27
+6932-UBZMK,vinod,India,Bihar,Male,1966-08-26,60,56-65,2024-01-17,Paid,2025-01-17,Standard,Monthly,,,14.32,229,40,0,978.0,2.68,1-3 years,171.84,,,Medium Risk,,,,
+5890-SVPXC,rajesh,India,Kerala,Female,1994-01-09,32,26-35,2021-11-28,Referral,2022-11-28,Premium,Monthly,2024-08-31,Poor streaming quality,21.52,910,90,1,1007.0,2.76,1-3 years,258.24,2024.0,8.0,High Risk,,,,
+9227-ZRKTZ,ritu,India,Nagaland,Male,1969-06-04,57,56-65,2023-07-18,Organic,2024-07-18,Premium,Annual,,,25.82,635,25,0,1161.0,3.18,3-5 years,309.84000000000003,,,Low Risk,,,,
+8366-TORFJ,indira,Nepal,Kathmandu,Female,1987-06-14,39,36-45,2023-06-06,Referral,2024-06-06,Premium,Monthly,,,21.43,489,46,0,1203.0,3.29,3-5 years,257.15999999999997,,,Medium Risk,1.0,1.0,23.0,2025-03-30
+7909-CKZDY,rishabh,India,Kerala,Male,1980-05-22,46,46-55,2021-02-09,Organic,2022-02-09,Premium,Monthly,,,22.04,1085,56,0,2050.0,5.61,5-7 years,264.48,,,Medium Risk,,,,
+3389-NJCSL,maya,India,West Bengal,Male,2001-05-06,25,18-25,2021-02-20,Referral,2022-02-20,Basic,Monthly,2022-01-28,Billing issue,9.3,481,98,1,342.0,0.94,0-1 years,111.60000000000001,2022.0,1.0,High Risk,,,,
+0370-WQREZ,rajesh,India,Telangana,Female,1989-10-04,37,36-45,2023-12-29,Paid,2024-12-29,Premium,Annual,,,23.35,394,55,0,997.0,2.73,1-3 years,280.20000000000005,,,Medium Risk,,,,
+6985-YGKEQ,ritu,India,Punjab,Male,1998-01-29,28,26-35,2023-05-24,Referral,2024-05-24,Basic,Annual,,,7.01,198,40,0,1216.0,3.33,3-5 years,84.12,,,Medium Risk,,,,
+3232-LLAFH,maya,Nepal,Kathmandu,Male,2000-11-12,26,26-35,2022-04-06,Paid,2023-04-06,Basic,Annual,,,8.19,343,29,0,1629.0,4.46,3-5 years,98.28,,,Low Risk,,,,
+3063-JFCRM,ajay,India,Punjab,Male,1982-08-11,44,36-45,2022-07-17,Referral,2023-07-17,Standard,Annual,,,14.33,456,43,0,1527.0,4.18,3-5 years,171.96,,,Medium Risk,,,,
+5700-JLERU,shiva,India,Meghalaya,Male,1970-04-16,56,56-65,2022-11-21,Organic,2023-11-21,Standard,Monthly,,,15.17,514,30,0,1400.0,3.83,3-5 years,182.04,,,Low Risk,,,,
+1916-ESNKD,radha,India,Bihar,Female,1986-10-31,40,36-45,2021-08-08,Paid,2022-08-08,Standard,Annual,,,15.93,835,31,0,1870.0,5.12,5-7 years,191.16,,,Medium Risk,,,,
+2838-OMDIL,mina,India,Kerala,Male,1986-09-27,40,36-45,2020-06-21,Referral,2021-06-21,Premium,Annual,,,24.6,1655,49,0,2283.0,6.25,5-7 years,295.20000000000005,,,Medium Risk,,,,
+9200-NMRKV,satish,India,Rajasthan,Male,1990-05-13,36,36-45,2023-01-15,Paid,2024-01-15,Premium,Monthly,,,24.99,681,7,0,1345.0,3.68,3-5 years,299.88,,,Low Risk,,,,
+4785-AFHUO,padma,Nepal,Kathmandu,Male,1970-01-29,56,56-65,2024-05-31,Referral,2025-05-31,Basic,Annual,,,7.59,108,33,0,843.0,2.31,1-3 years,91.08,,,Medium Risk,,,,
+4389-UVJVB,om,Nepal,Kathmandu,Female,1984-01-27,42,36-45,2022-05-28,Organic,2023-05-28,Basic,Monthly,,,8.66,363,12,0,1577.0,4.32,3-5 years,103.92,,,Low Risk,1.0,1.0,11.0,2024-10-21
+4877-WAGWC,rikim,India,Uttar Pradesh,Female,2001-05-14,25,18-25,2020-12-16,Referral,2021-12-16,Premium,Monthly,2021-09-19,Forgot to cancel trial,25.46,1337,77,1,277.0,0.76,0-1 years,305.52,2021.0,9.0,High Risk,1.0,0.0,11.0,2024-11-27
+5744-WPLQU,pooja,India,Karnataka,Male,1980-09-26,46,46-55,2021-07-06,Referral,2022-07-06,Standard,Annual,,,17.96,941,59,0,1903.0,5.21,5-7 years,215.52,,,Medium Risk,1.0,0.0,88.0,2025-12-19
+9778-OISHG,lata,India,Nagaland,Female,1998-08-25,28,26-35,2020-09-11,Organic,2021-09-11,Premium,Monthly,,,25.36,1282,53,0,2201.0,6.03,5-7 years,304.32,,,Medium Risk,,,,
+0971-ZWDWG,rekha,India,Uttar Pradesh,Female,1982-08-14,44,36-45,2024-02-16,Paid,2025-02-16,Premium,Monthly,,,24.77,426,8,0,948.0,2.6,1-3 years,297.24,,,Low Risk,,,,
+9460-QQJBU,rangadevi,India,Punjab,Male,1998-08-20,28,26-35,2019-06-21,Paid,2020-06-21,Standard,Monthly,2024-07-02,No longer needed,13.83,1139,79,1,1838.0,5.03,5-7 years,165.96,2024.0,7.0,High Risk,,,,
+6046-LMPWW,rangadevi,India,Odisha,Female,1994-10-17,32,26-35,2024-09-03,Organic,2025-09-03,Standard,Monthly,,,17.34,166,9,0,748.0,2.05,1-3 years,208.07999999999998,,,Low Risk,,,,
+1037-UKZVM,rekha,India,West Bengal,Male,1989-07-21,37,36-45,2021-04-06,Paid,2022-04-06,Standard,Monthly,,,15.07,854,20,0,1994.0,5.46,5-7 years,180.84,,,Low Risk,1.0,1.0,27.0,2025-03-15
+9275-WUXTB,tarun,India,Maharashtra,Male,2006-09-10,20,18-25,2024-08-30,Organic,2025-08-30,Basic,Annual,2025-06-27,Poor streaming quality,7.79,82,94,1,301.0,0.82,0-1 years,93.48,2025.0,6.0,High Risk,,,,
+7230-LZLZX,ramesh,India,Rajasthan,Male,1969-03-10,57,56-65,2021-07-23,Referral,2022-07-23,Basic,Annual,,,8.28,450,45,0,1886.0,5.16,5-7 years,99.35999999999999,,,Medium Risk,2.0,0.0,64.5,2025-10-03
+4102-CRQBQ,amit,India,Bihar,Female,1969-02-03,57,56-65,2023-01-21,Organic,2024-01-21,Premium,Monthly,,,23.2,752,7,0,1339.0,3.67,3-5 years,278.4,,,Low Risk,1.0,0.0,55.0,2024-02-02
+0017-FCPNL,raghav,India,Gujarat,Male,2003-08-05,23,18-25,2022-10-17,Referral,2023-10-17,Basic,Monthly,,,9.94,284,44,0,1435.0,3.93,3-5 years,119.28,,,Medium Risk,1.0,0.0,83.0,2024-06-17
+2165-MFCUC,neha,India,West Bengal,Female,1982-03-03,44,36-45,2020-09-10,Referral,2021-09-10,Premium,Annual,,,21.28,1207,37,0,2202.0,6.03,5-7 years,255.36,,,Medium Risk,,,,
+2181-QRBOP,suresh,India,Odisha,Male,1997-05-29,29,26-35,2022-05-31,Referral,2023-05-31,Standard,Annual,,,14.56,600,41,0,1574.0,4.31,3-5 years,174.72,,,Medium Risk,,,,
+2480-XQLFX,raghvendra,India,Nagaland,Male,1997-09-30,29,26-35,2020-08-24,Paid,2021-08-24,Standard,Monthly,,,15.22,932,30,0,2219.0,6.08,5-7 years,182.64000000000001,,,Low Risk,,,,
+7035-IDHCO,vijay,India,Maharashtra,Female,2004-04-15,22,18-25,2022-11-15,Paid,2023-11-15,Premium,Annual,2023-11-22,Poor streaming quality,24.9,886,87,1,372.0,1.02,1-3 years,298.79999999999995,2023.0,11.0,High Risk,,,,
+8482-PEKQU,priya,India,Delhi,Female,1970-01-22,56,56-65,2020-05-31,Referral,2021-05-31,Standard,Monthly,,,15.69,974,23,0,2304.0,6.31,5-7 years,188.28,,,Low Risk,,,,
+9730-BXAJI,radha,Nepal,Kathmandu,Female,1981-05-23,45,36-45,2020-10-17,Paid,2021-10-17,Basic,Annual,,,9.66,607,29,0,2165.0,5.93,5-7 years,115.92,,,Low Risk,1.0,1.0,6.0,2025-08-30
+2830-TYUAB,sanjay,India,Telangana,Male,2006-05-21,20,18-25,2024-08-31,Organic,2025-08-31,Basic,Annual,,,7.17,75,5,0,751.0,2.06,1-3 years,86.03999999999999,,,Low Risk,,,,
+8300-HSTLK,sudevi,India,Tamil Nadu,Male,1978-11-26,48,46-55,2020-05-25,Referral,2021-05-25,Standard,Monthly,2023-09-28,Forgot to cancel trial,15.85,936,93,1,1221.0,3.34,3-5 years,190.2,2023.0,9.0,High Risk,,,,
+2545-NKQVR,maya,India,West Bengal,Female,1984-08-16,42,36-45,2024-12-24,Organic,2025-12-24,Premium,Annual,,,22.16,145,38,0,636.0,1.74,1-3 years,265.92,,,Medium Risk,,,,
+3909-BCLLP,sunita,India,Rajasthan,Male,1965-07-27,61,56-65,2020-07-27,Referral,2021-07-27,Standard,Monthly,,,15.59,886,54,0,2247.0,6.15,5-7 years,187.07999999999998,,,Medium Risk,,,,
+0185-EYNUS,suresh,India,Kerala,Female,1998-08-20,28,26-35,2023-01-19,Referral,2024-01-19,Standard,Annual,2023-07-01,Poor streaming quality,13.72,357,98,1,163.0,0.45,0-1 years,164.64000000000001,2023.0,7.0,High Risk,,,,
+4403-TDXIL,maya,India,Tamil Nadu,Female,1990-11-13,36,36-45,2021-05-29,Paid,2022-05-29,Standard,Annual,,,14.84,751,57,0,1941.0,5.31,5-7 years,178.07999999999998,,,Medium Risk,,,,
+8128-LJMOJ,geeta,India,Nagaland,Male,1995-03-29,31,26-35,2021-12-16,Organic,2022-12-16,Standard,Annual,,,16.17,786,28,0,1740.0,4.76,3-5 years,194.04000000000002,,,Low Risk,,,,
+3742-TAWAB,alok,India,Punjab,Female,1973-01-11,53,46-55,2020-10-29,Paid,2021-10-29,Basic,Annual,,,7.37,477,35,0,2153.0,5.89,5-7 years,88.44,,,Medium Risk,2.0,0.0,64.5,2025-12-10
+0579-OXTKI,nandini,India,Gujarat,Male,2002-01-20,24,18-25,2020-04-28,Organic,2021-04-28,Standard,Monthly,,,15.27,862,60,0,2337.0,6.4,5-7 years,183.24,,,Medium Risk,,,,
+1956-NXEUZ,kamala,India,Delhi,Female,2003-11-07,23,18-25,2020-05-01,Organic,2021-05-01,Standard,Monthly,2021-01-27,Not enough content,15.03,965,74,1,271.0,0.74,0-1 years,180.35999999999999,2021.0,1.0,High Risk,1.0,1.0,28.0,2025-10-18
+5090-IOAFO,ramesh,India,Uttar Pradesh,Female,1981-07-09,45,36-45,2022-06-02,Referral,2023-06-02,Premium,Annual,2024-11-11,Switched to competitor,22.51,917,88,1,893.0,2.44,1-3 years,270.12,2024.0,11.0,High Risk,,,,
+8083-ZUTOU,sudevi,India,Maharashtra,Female,1966-01-27,60,56-65,2022-06-03,Referral,2023-06-03,Premium,Annual,,,22.07,732,57,0,1571.0,4.3,3-5 years,264.84000000000003,,,Medium Risk,,,,
+5675-QSAIT,gopal,India,West Bengal,Male,1974-03-16,52,46-55,2019-07-03,Organic,2020-07-03,Standard,Annual,,,15.86,1254,48,0,2637.0,7.22,7+ years,190.32,,,Medium Risk,,,,
+3902-KYZDH,durga,India,Uttar Pradesh,Male,1983-07-13,43,36-45,2020-06-27,Referral,2021-06-27,Premium,Annual,2022-05-24,Switched to competitor,23.51,1505,93,1,696.0,1.91,1-3 years,282.12,2022.0,5.0,High Risk,2.0,0.0,56.0,2025-10-14
+6102-LTPNQ,harish,India,Delhi,Male,1990-06-22,36,36-45,2023-08-05,Paid,2024-08-05,Standard,Annual,,,17.49,349,30,0,1143.0,3.13,3-5 years,209.88,,,Low Risk,,,,
+3879-HWYKV,rekha,India,Gujarat,Female,1977-03-14,49,46-55,2022-02-10,Paid,2023-02-10,Standard,Monthly,,,17.32,741,21,0,1684.0,4.61,3-5 years,207.84,,,Low Risk,1.0,1.0,35.0,2025-07-12
+3321-DUCCL,ajay,India,Bihar,Male,1989-01-15,37,36-45,2020-05-22,Paid,2021-05-22,Standard,Monthly,,,13.42,839,34,0,2313.0,6.33,5-7 years,161.04,,,Medium Risk,1.0,0.0,23.0,2025-09-23
+3401-LMWCU,ramesh,India,Karnataka,Female,2002-07-01,24,18-25,2019-03-18,Referral,2020-03-18,Basic,Monthly,2024-04-09,Switched to competitor,9.8,699,96,1,1849.0,5.06,5-7 years,117.60000000000001,2024.0,4.0,High Risk,,,,
+2430-CGJNR,sanjay,India,Rajasthan,Male,1983-02-21,43,36-45,2024-12-25,Referral,2025-12-25,Standard,Monthly,2025-03-11,Poor streaming quality,15.0,103,83,1,76.0,0.21,0-1 years,180.0,2025.0,3.0,High Risk,,,,
+9108-TGMUD,raghav,India,Karnataka,Female,1970-11-12,56,56-65,2019-04-09,Referral,2020-04-09,Premium,Annual,2022-07-20,Too expensive,22.58,1513,75,1,1198.0,3.28,3-5 years,270.96,2022.0,7.0,High Risk,1.0,0.0,84.0,2024-07-20
+6098-RYCPX,arjun,India,Maharashtra,Male,1973-11-14,53,46-55,2021-01-18,Referral,2022-01-18,Basic,Annual,2022-02-23,Switched to competitor,7.26,414,80,1,401.0,1.1,1-3 years,87.12,2022.0,2.0,High Risk,,,,
+7265-VCWVD,indira,India,Karnataka,Female,2006-06-15,20,18-25,2019-08-28,Referral,2020-08-28,Basic,Monthly,2021-02-03,Switched to competitor,7.29,579,96,1,525.0,1.44,1-3 years,87.48,2021.0,2.0,High Risk,,,,
+6471-MJLJX,asha,India,Tamil Nadu,Female,2004-08-18,22,18-25,2021-04-09,Referral,2022-04-09,Basic,Monthly,,,8.78,452,9,0,1991.0,5.45,5-7 years,105.35999999999999,,,Low Risk,,,,
+4835-MWMCJ,nandini,India,Telangana,Female,2004-09-07,22,18-25,2022-01-08,Referral,2023-01-08,Basic,Annual,,,8.38,352,16,0,1717.0,4.7,3-5 years,100.56,,,Low Risk,,,,
+4082-QUUZU,seema,India,Delhi,Male,2000-01-21,26,26-35,2019-03-18,Paid,2020-03-18,Basic,Monthly,,,9.88,815,10,0,2744.0,7.51,7+ years,118.56,,,Low Risk,,,,
+9267-NKEIF,asha,India,Karnataka,Female,1988-10-01,38,36-45,2022-06-01,Paid,2023-06-01,Standard,Monthly,,,15.22,549,52,0,1573.0,4.31,3-5 years,182.64000000000001,,,Medium Risk,,,,
+9568-ZZCRG,madan,India,Uttar Pradesh,Male,2002-12-22,24,18-25,2021-10-01,Referral,2022-10-01,Standard,Annual,,,15.11,585,55,0,1816.0,4.97,3-5 years,181.32,,,Medium Risk,1.0,1.0,33.0,2025-04-06
+6363-JVVEP,seema,Nepal,Kathmandu,Male,1996-07-22,30,26-35,2022-03-30,Referral,2023-03-30,Standard,Monthly,2024-06-15,Not enough content,13.83,510,91,1,808.0,2.21,1-3 years,165.96,2024.0,6.0,High Risk,,,,
+9300-OOEZW,padma,Nepal,Kathmandu,Male,1972-11-16,54,46-55,2021-05-21,Paid,2022-05-21,Standard,Monthly,,,15.54,833,21,0,1949.0,5.34,5-7 years,186.48,,,Low Risk,,,,
+1478-BPAMI,vikram,India,Meghalaya,Male,1997-02-28,29,26-35,2020-01-03,Organic,2021-01-03,Standard,Monthly,2021-04-08,Forgot to cancel trial,13.6,924,83,1,461.0,1.26,1-3 years,163.2,2021.0,4.0,High Risk,,,,
+0975-APXUW,alok,India,Delhi,Male,1996-08-09,30,26-35,2024-08-29,Organic,2025-08-29,Premium,Annual,,,22.58,213,30,0,753.0,2.06,1-3 years,270.96,,,Low Risk,,,,
+6481-PIIZT,ritu,India,Delhi,Female,1979-03-27,47,46-55,2022-01-23,Paid,2023-01-23,Basic,Annual,,,9.94,410,3,0,1702.0,4.66,3-5 years,119.28,,,Low Risk,,,,
+5846-FPEHR,vishakha,India,Rajasthan,Female,1965-01-30,61,56-65,2020-07-01,Referral,2021-07-01,Standard,Annual,,,13.0,886,28,0,2273.0,6.22,5-7 years,156.0,,,Low Risk,,,,
+9385-KZZAP,sneha,Nepal,Kathmandu,Male,1987-04-05,39,36-45,2024-06-25,Paid,2025-06-25,Premium,Monthly,,,23.68,250,44,0,818.0,2.24,1-3 years,284.15999999999997,,,Medium Risk,1.0,1.0,5.0,2025-04-11
+3899-JIQZV,manoj,India,Odisha,Male,1976-11-24,50,46-55,2023-12-29,Paid,2024-12-29,Standard,Annual,2024-02-05,Switched to competitor,14.75,258,94,1,38.0,0.1,0-1 years,177.0,2024.0,2.0,High Risk,,,,
+1110-JUSBL,nandini,India,Rajasthan,Female,1987-02-13,39,36-45,2024-03-10,Paid,2025-03-10,Standard,Monthly,,,13.95,237,45,0,925.0,2.53,1-3 years,167.39999999999998,,,Medium Risk,,,,
+5754-OCMWQ,sneha,India,Rajasthan,Female,1968-04-22,58,56-65,2023-01-05,Organic,2024-01-05,Basic,Annual,,,9.44,261,25,0,1355.0,3.71,3-5 years,113.28,,,Low Risk,,,,
+0547-HIYBE,gopal,India,Rajasthan,Female,1968-05-13,58,56-65,2019-05-31,Referral,2020-05-31,Basic,Monthly,,,9.7,652,27,0,2670.0,7.31,7+ years,116.39999999999999,,,Low Risk,,,,
+1525-IZXSL,suresh,India,Bihar,Female,1967-05-28,59,56-65,2020-03-30,Paid,2021-03-30,Premium,Annual,,,23.84,1547,38,0,2366.0,6.48,5-7 years,286.08,,,Medium Risk,,,,
+3112-KOYOR,ramesh,India,Uttar Pradesh,Male,1967-03-25,59,56-65,2020-12-19,Paid,2021-12-19,Basic,Monthly,,,7.37,377,16,0,2102.0,5.75,5-7 years,88.44,,,Low Risk,,,,
+9005-VDJLH,jyoti,India,Telangana,Male,1966-02-26,60,56-65,2024-11-12,Organic,2025-11-12,Standard,Monthly,,,14.36,115,45,0,678.0,1.86,1-3 years,172.32,,,Medium Risk,,,,
+4781-ZMDUM,sanjay,India,Delhi,Female,1989-05-29,37,36-45,2024-02-03,Organic,2025-02-03,Basic,Monthly,,,8.27,138,19,0,961.0,2.63,1-3 years,99.24,,,Low Risk,,,,
+6078-XJLGM,sneha,India,Tamil Nadu,Male,1967-10-07,59,56-65,2020-05-13,Paid,2021-05-13,Standard,Annual,,,15.32,1031,16,0,2322.0,6.36,5-7 years,183.84,,,Low Risk,,,,
+1404-RVKTF,madan,India,Punjab,Male,1983-10-12,43,36-45,2019-07-12,Organic,2020-07-12,Basic,Annual,2019-11-22,Billing issue,8.25,510,72,1,133.0,0.36,0-1 years,99.0,2019.0,11.0,High Risk,,,,
+7779-OGHKW,mira,India,Telangana,Male,2005-05-24,21,18-25,2021-07-13,Paid,2022-07-13,Premium,Monthly,,,23.11,1014,6,0,1896.0,5.19,5-7 years,277.32,,,Low Risk,,,,
+9363-RQDTE,suresh,India,Telangana,Female,1970-08-30,56,56-65,2020-02-01,Paid,2021-02-01,Basic,Monthly,,,8.29,594,55,0,2424.0,6.64,5-7 years,99.47999999999999,,,Medium Risk,1.0,0.0,58.0,2024-04-17
+7133-FVDPI,maya,India,Delhi,Female,1989-12-16,37,36-45,2021-10-22,Referral,2022-10-22,Basic,Annual,,,8.41,414,17,0,1795.0,4.91,3-5 years,100.92,,,Low Risk,1.0,1.0,35.0,2025-08-06
+5343-WNXAS,ashok,India,Bihar,Male,1983-08-05,43,36-45,2019-10-26,Organic,2020-10-26,Premium,Monthly,2025-01-14,Switched to competitor,24.09,1638,71,1,1907.0,5.22,5-7 years,289.08,2025.0,1.0,High Risk,1.0,1.0,9.0,2025-10-22
+1730-OCHNI,yash,India,Tamil Nadu,Female,1994-05-17,32,26-35,2023-03-26,Paid,2024-03-26,Basic,Monthly,,,9.53,228,5,0,1275.0,3.49,3-5 years,114.35999999999999,,,Low Risk,,,,
+9977-MEKQR,kamala,India,Karnataka,Female,2004-11-26,22,18-25,2022-05-19,Organic,2023-05-19,Standard,Monthly,2024-08-07,Poor streaming quality,15.15,498,97,1,811.0,2.22,1-3 years,181.8,2024.0,8.0,High Risk,1.0,0.0,68.0,2024-05-22
+3892-BMGJI,ramesh,India,West Bengal,Male,2002-10-23,24,18-25,2020-01-28,Referral,2021-01-28,Standard,Monthly,,,15.05,958,58,0,2428.0,6.65,5-7 years,180.60000000000002,,,Medium Risk,,,,
+1609-ZFHTU,rekha,India,Tamil Nadu,Female,1983-09-12,43,36-45,2020-02-19,Referral,2021-02-19,Basic,Monthly,,,9.8,642,8,0,2406.0,6.59,5-7 years,117.60000000000001,,,Low Risk,,,,
+1462-EFVTT,neha,India,Karnataka,Male,2000-07-03,26,26-35,2020-02-25,Paid,2021-02-25,Basic,Monthly,,,9.13,527,24,0,2400.0,6.57,5-7 years,109.56,,,Low Risk,,,,
+8303-KUNOE,vikram,India,Karnataka,Female,1966-06-26,60,56-65,2023-09-21,Paid,2024-09-21,Standard,Monthly,2024-09-04,Forgot to cancel trial,16.09,309,74,1,349.0,0.96,0-1 years,193.07999999999998,2024.0,9.0,High Risk,1.0,1.0,31.0,2024-10-11
+5904-SHVNQ,rikim,India,Maharashtra,Female,1981-09-16,45,36-45,2023-11-21,Organic,2024-11-21,Standard,Annual,,,16.25,325,11,0,1035.0,2.83,1-3 years,195.0,,,Low Risk,,,,
+7308-EWPJE,sanjay,India,Delhi,Male,1966-03-26,60,56-65,2020-08-26,Organic,2021-08-26,Standard,Annual,,,16.01,1077,44,0,2217.0,6.07,5-7 years,192.12,,,Medium Risk,,,,
+2669-WUFFF,pooja,India,Tamil Nadu,Female,1983-05-16,43,36-45,2020-08-15,Referral,2021-08-15,Basic,Monthly,,,8.51,481,42,0,2228.0,6.1,5-7 years,102.12,,,Medium Risk,,,,
+0145-MDEUF,sunita,India,Tamil Nadu,Female,2005-03-03,21,18-25,2021-04-04,Organic,2022-04-04,Premium,Annual,,,22.7,1238,46,0,1996.0,5.46,5-7 years,272.4,,,Medium Risk,1.0,1.0,9.0,2024-09-05
+5713-LFHNQ,raju,India,Maharashtra,Male,1994-09-18,32,26-35,2022-09-18,Paid,2023-09-18,Premium,Annual,,,23.82,758,8,0,1464.0,4.01,3-5 years,285.84000000000003,,,Low Risk,,,,
+6131-OPHRM,usha,India,Tamil Nadu,Female,1979-08-03,47,46-55,2024-02-04,Paid,2025-02-04,Premium,Annual,,,25.54,490,46,0,960.0,2.63,1-3 years,306.48,,,Medium Risk,1.0,1.0,20.0,2025-10-21
+4278-RYQEN,priya,India,Karnataka,Male,1983-02-16,43,36-45,2021-08-01,Organic,2022-08-01,Standard,Annual,,,14.06,723,53,0,1877.0,5.14,5-7 years,168.72,,,Medium Risk,,,,
+2292-SRZGK,radha,India,Karnataka,Male,1996-10-06,30,26-35,2023-03-20,Organic,2024-03-20,Basic,Monthly,,,7.54,178,37,0,1281.0,3.51,3-5 years,90.48,,,Medium Risk,,,,
+3111-ISRQM,seema,India,Telangana,Male,2002-12-04,24,18-25,2020-04-16,Referral,2021-04-16,Basic,Annual,2021-05-07,Too expensive,8.31,601,79,1,386.0,1.06,1-3 years,99.72,2021.0,5.0,High Risk,,,,
+2967-HMTSO,kavita,India,Gujarat,Female,1969-01-03,57,56-65,2021-12-09,Paid,2022-12-09,Standard,Monthly,2022-08-03,Switched to competitor,14.69,578,78,1,237.0,0.65,0-1 years,176.28,2022.0,8.0,High Risk,1.0,0.0,46.0,2024-11-06
+3659-THUIG,meena,India,Odisha,Male,1986-02-09,40,36-45,2020-07-16,Organic,2021-07-16,Standard,Monthly,,,16.93,1155,17,0,2258.0,6.18,5-7 years,203.16,,,Low Risk,,,,
+7736-XNWJH,mina,India,Meghalaya,Female,1973-12-26,53,46-55,2023-02-23,Organic,2024-02-23,Premium,Annual,2023-08-05,No longer needed,24.29,604,99,1,163.0,0.45,0-1 years,291.48,2023.0,8.0,High Risk,,,,
+9329-XZDWE,shiva,India,Delhi,Male,1993-04-22,33,26-35,2021-02-15,Organic,2022-02-15,Basic,Annual,,,8.12,444,17,0,2044.0,5.6,5-7 years,97.44,,,Low Risk,,,,
+5134-QAHTE,anita,India,Delhi,Male,1970-10-22,56,56-65,2019-07-09,Paid,2020-07-09,Premium,Annual,2022-09-28,No longer needed,23.93,1651,95,1,1177.0,3.22,3-5 years,287.15999999999997,2022.0,9.0,High Risk,1.0,1.0,36.0,2024-11-12
+7035-KZJAF,neha,India,Maharashtra,Male,1998-12-14,28,26-35,2020-06-01,Paid,2021-06-01,Premium,Annual,,,25.83,1706,52,0,2303.0,6.31,5-7 years,309.96,,,Medium Risk,1.0,0.0,68.0,2025-02-09
+3122-AATFW,sunita,India,Meghalaya,Male,1982-03-17,44,36-45,2019-09-23,Referral,2020-09-23,Basic,Annual,2024-01-01,Forgot to cancel trial,8.15,575,92,1,1561.0,4.27,3-5 years,97.80000000000001,2024.0,1.0,High Risk,,,,
+5015-EVHHS,usha,India,Bihar,Female,1971-01-02,55,46-55,2024-06-02,Paid,2025-06-02,Standard,Annual,,,15.46,196,39,0,841.0,2.3,1-3 years,185.52,,,Medium Risk,,,,
+8031-JEYXK,amit,India,Uttar Pradesh,Female,1970-11-20,56,56-65,2019-05-30,Paid,2020-05-30,Basic,Annual,,,9.67,694,58,0,2671.0,7.31,7+ years,116.03999999999999,,,Medium Risk,,,,
+0359-PEJQA,geeta,Nepal,Kathmandu,Male,1967-03-08,59,56-65,2023-03-25,Organic,2024-03-25,Standard,Annual,2024-02-20,Poor streaming quality,17.67,495,72,1,332.0,0.91,0-1 years,212.04000000000002,2024.0,2.0,High Risk,,,,
+0785-RQARK,gopal,India,Nagaland,Male,1976-05-03,50,46-55,2024-10-26,Paid,2025-10-26,Standard,Annual,,,15.91,135,31,0,695.0,1.9,1-3 years,190.92000000000002,,,Medium Risk,1.0,1.0,18.0,2024-01-24
+2508-FRAKC,ashok,India,Tamil Nadu,Male,1992-03-02,34,26-35,2023-11-07,Organic,2024-11-07,Standard,Annual,2024-09-03,Billing issue,17.01,328,77,1,301.0,0.82,0-1 years,204.12,2024.0,9.0,High Risk,,,,
+6862-VCSDC,raju,India,Delhi,Female,1992-04-26,34,26-35,2019-11-07,Organic,2020-11-07,Standard,Monthly,2021-12-13,Switched to competitor,13.4,1038,72,1,767.0,2.1,1-3 years,160.8,2021.0,12.0,High Risk,,,,
+8571-ZJKEO,pooja,India,Delhi,Male,1975-07-10,51,46-55,2021-03-31,Organic,2022-03-31,Basic,Annual,,,9.02,500,56,0,2000.0,5.48,5-7 years,108.24,,,Medium Risk,1.0,1.0,20.0,2024-04-19
+1809-VRDCN,chitra,India,Tamil Nadu,Female,1975-05-16,51,46-55,2022-01-29,Organic,2023-01-29,Basic,Monthly,,,8.8,392,2,0,1696.0,4.64,3-5 years,105.60000000000001,,,Low Risk,,,,
+4850-GBVWW,alok,India,Gujarat,Female,1998-02-17,28,26-35,2022-05-11,Referral,2023-05-11,Basic,Annual,,,8.03,336,2,0,1594.0,4.36,3-5 years,96.35999999999999,,,Low Risk,,,,
+0158-WREJL,kiran,India,Delhi,Male,2001-07-23,25,18-25,2024-04-17,Referral,2025-04-17,Standard,Monthly,,,17.94,241,15,0,887.0,2.43,1-3 years,215.28000000000003,,,Low Risk,1.0,0.0,95.0,2025-02-27
+1865-KZHKW,nandini,India,Rajasthan,Male,1970-12-12,56,56-65,2024-04-27,Organic,2025-04-27,Basic,Annual,,,8.75,136,7,0,877.0,2.4,1-3 years,105.0,,,Low Risk,,,,
+0960-ZVCXM,om,India,Rajasthan,Male,1982-01-13,44,36-45,2022-07-06,Paid,2023-07-06,Premium,Annual,,,23.13,824,3,0,1538.0,4.21,3-5 years,277.56,,,Low Risk,,,,
+0472-WWSXM,satish,India,Nagaland,Female,1984-10-08,42,36-45,2023-03-15,Organic,2024-03-15,Basic,Annual,,,9.61,228,55,0,1286.0,3.52,3-5 years,115.32,,,Medium Risk,,,,
+5148-AWNTS,sneha,India,Gujarat,Male,1988-06-19,38,36-45,2022-12-23,Organic,2023-12-23,Basic,Annual,,,8.25,255,3,0,1368.0,3.75,3-5 years,99.0,,,Low Risk,,,,
+1560-LSMRQ,sudevi,Nepal,Kathmandu,Male,1967-06-14,59,56-65,2019-05-12,Paid,2020-05-12,Premium,Annual,,,21.76,1688,40,0,2689.0,7.36,7+ years,261.12,,,Medium Risk,,,,
+8283-WWWBM,priya,India,Gujarat,Male,1967-04-05,59,56-65,2023-05-21,Referral,2024-05-21,Premium,Annual,2024-05-21,Forgot to cancel trial,22.01,571,73,1,366.0,1.0,0-1 years,264.12,2024.0,5.0,High Risk,2.0,1.0,30.0,2024-03-17
+9019-QKGLU,bhavna,India,Delhi,Female,1985-01-20,41,36-45,2024-01-24,Referral,2025-01-24,Standard,Monthly,2025-02-09,Forgot to cancel trial,14.51,266,96,1,382.0,1.05,1-3 years,174.12,2025.0,2.0,High Risk,,,,
+8148-TAKAO,rangadevi,India,West Bengal,Male,1990-03-24,36,36-45,2024-06-24,Organic,2025-06-24,Basic,Annual,,,7.59,85,35,0,819.0,2.24,1-3 years,91.08,,,Medium Risk,,,,
+7474-YJBFL,naresh,India,Kerala,Female,1985-04-20,41,36-45,2019-10-14,Paid,2020-10-14,Standard,Monthly,,,14.83,977,27,0,2534.0,6.94,5-7 years,177.96,,,Low Risk,1.0,0.0,80.0,2024-04-04
+0035-IVZHN,raju,India,Karnataka,Female,1987-02-02,39,36-45,2020-10-05,Referral,2021-10-05,Premium,Annual,,,21.64,1338,59,0,2177.0,5.96,5-7 years,259.68,,,Medium Risk,1.0,1.0,8.0,2024-05-16
+1752-GFDWF,nisha,India,Gujarat,Male,1998-12-19,28,26-35,2021-04-25,Organic,2022-04-25,Basic,Annual,2023-02-19,Forgot to cancel trial,7.61,406,88,1,665.0,1.82,1-3 years,91.32000000000001,2023.0,2.0,High Risk,,,,
+9647-DXLPN,padma,India,Maharashtra,Male,1998-01-10,28,26-35,2021-04-11,Paid,2022-04-11,Standard,Annual,2023-08-06,Forgot to cancel trial,16.41,718,72,1,847.0,2.32,1-3 years,196.92000000000002,2023.0,8.0,High Risk,,,,
+9586-MNXEP,vishakha,India,Nagaland,Female,1994-06-30,32,26-35,2021-10-08,Referral,2022-10-08,Standard,Annual,2023-06-19,Billing issue,17.54,786,72,1,619.0,1.69,1-3 years,210.48,2023.0,6.0,High Risk,1.0,1.0,33.0,2025-09-30
+5273-NKZXT,asha,India,Punjab,Male,1978-03-13,48,46-55,2024-02-13,Referral,2025-02-13,Basic,Annual,,,9.52,165,13,0,951.0,2.6,1-3 years,114.24,,,Low Risk,,,,
+2185-DPXNV,ajay,Nepal,Kathmandu,Female,1974-10-01,52,46-55,2023-08-28,Referral,2024-08-28,Basic,Annual,,,9.69,209,46,0,1120.0,3.07,3-5 years,116.28,,,Medium Risk,1.0,1.0,29.0,2024-04-01
+4760-RXDSZ,deepak,India,Telangana,Male,1996-02-23,30,26-35,2020-01-27,Paid,2021-01-27,Standard,Monthly,,,17.72,1090,20,0,2429.0,6.65,5-7 years,212.64,,,Low Risk,1.0,1.0,30.0,2024-10-09
+1890-TOPYS,vijay,India,Bihar,Male,1988-06-13,38,36-45,2019-10-01,Referral,2020-10-01,Standard,Monthly,,,16.6,1130,9,0,2547.0,6.97,5-7 years,199.20000000000002,,,Low Risk,,,,
+2381-BBGUZ,geeta,India,Meghalaya,Male,1995-12-24,31,26-35,2023-02-19,Referral,2024-02-19,Basic,Annual,2023-05-05,Poor streaming quality,7.31,206,86,1,75.0,0.21,0-1 years,87.72,2023.0,5.0,High Risk,,,,
+3342-TAVCW,sneha,Nepal,Kathmandu,Female,1975-08-29,51,46-55,2019-04-20,Referral,2020-04-20,Basic,Annual,,,9.07,652,14,0,2711.0,7.42,7+ years,108.84,,,Low Risk,,,,
+4712-SBJKU,ajay,Nepal,Kathmandu,Male,1965-08-01,61,56-65,2023-06-13,Organic,2024-06-13,Basic,Monthly,,,7.74,202,31,0,1196.0,3.27,3-5 years,92.88,,,Medium Risk,,,,
+3327-QUWVX,neha,Nepal,Kathmandu,Male,1998-02-15,28,26-35,2019-10-07,Paid,2020-10-07,Basic,Annual,2021-10-04,No longer needed,8.96,619,75,1,728.0,1.99,1-3 years,107.52000000000001,2021.0,10.0,High Risk,2.0,2.0,26.5,2025-06-21
+3170-HEREE,lata,India,Nagaland,Female,1966-10-28,60,56-65,2019-03-15,Paid,2020-03-15,Standard,Monthly,2019-05-29,Billing issue,13.88,1140,91,1,75.0,0.21,0-1 years,166.56,2019.0,5.0,High Risk,,,,
+9119-GEVAM,sudevi,India,Karnataka,Female,2006-08-28,20,18-25,2022-01-24,Organic,2023-01-24,Basic,Monthly,,,8.06,289,15,0,1701.0,4.66,3-5 years,96.72,,,Low Risk,,,,
+0833-UQVHU,seema,India,Delhi,Female,1979-04-05,47,46-55,2023-12-16,Referral,2024-12-16,Standard,Monthly,,,17.17,340,40,0,1010.0,2.77,1-3 years,206.04000000000002,,,Medium Risk,,,,
+3012-NUEOK,dinesh,India,Uttar Pradesh,Female,1994-10-04,32,26-35,2019-01-20,Paid,2020-01-20,Basic,Monthly,2019-04-25,Poor streaming quality,8.12,612,72,1,95.0,0.26,0-1 years,97.44,2019.0,4.0,High Risk,1.0,0.0,67.0,2025-05-14
+5911-HYQMO,raghav,India,Nagaland,Female,1980-07-09,46,46-55,2019-04-25,Organic,2020-04-25,Premium,Monthly,2020-06-23,No longer needed,22.68,1793,98,1,425.0,1.16,1-3 years,272.15999999999997,2020.0,6.0,High Risk,,,,
+3994-YRIXY,radha,India,Tamil Nadu,Male,1997-06-23,29,26-35,2020-11-18,Organic,2021-11-18,Standard,Monthly,,,13.21,702,41,0,2133.0,5.84,5-7 years,158.52,,,Medium Risk,,,,
+8468-VJULB,nisha,India,Gujarat,Male,1968-09-11,58,56-65,2021-04-28,Referral,2022-04-28,Premium,Annual,2022-05-18,Switched to competitor,22.97,1073,80,1,385.0,1.05,1-3 years,275.64,2022.0,5.0,High Risk,,,,
+2742-ZUNQF,rahul,India,Bihar,Male,1974-03-23,52,46-55,2023-07-06,Referral,2024-07-06,Standard,Monthly,,,13.05,288,19,0,1173.0,3.21,3-5 years,156.60000000000002,,,Low Risk,1.0,1.0,40.0,2025-02-05
+7130-QYTDL,manoj,India,Karnataka,Male,1968-04-15,58,56-65,2023-02-20,Organic,2024-02-20,Basic,Annual,,,9.65,299,8,0,1309.0,3.58,3-5 years,115.80000000000001,,,Low Risk,,,,
+9143-BVXKL,kamala,India,Bihar,Male,1965-10-04,61,56-65,2020-12-03,Organic,2021-12-03,Basic,Annual,,,7.27,428,51,0,2118.0,5.8,5-7 years,87.24,,,Medium Risk,1.0,0.0,87.0,2024-03-20
+1938-NQQTP,arjun,India,Kerala,Male,1969-10-05,57,56-65,2020-06-28,Organic,2021-06-28,Basic,Annual,,,8.9,539,40,0,2276.0,6.23,5-7 years,106.80000000000001,,,Medium Risk,,,,
+4937-PHYJV,mohan,India,Delhi,Female,1988-12-06,38,36-45,2024-01-13,Paid,2025-01-13,Standard,Monthly,,,16.19,295,16,0,982.0,2.69,1-3 years,194.28000000000003,,,Low Risk,1.0,1.0,23.0,2025-03-08
+6406-UWHQH,neha,India,Maharashtra,Male,2004-03-29,22,18-25,2019-03-28,Paid,2020-03-28,Standard,Annual,,,17.47,1426,41,0,2734.0,7.49,7+ years,209.64,,,Medium Risk,1.0,0.0,34.0,2024-10-09
+2019-BOKOC,pooja,India,Kerala,Female,1983-07-06,43,36-45,2019-11-22,Paid,2020-11-22,Basic,Annual,2021-04-22,Billing issue,8.11,495,71,1,517.0,1.42,1-3 years,97.32,2021.0,4.0,High Risk,1.0,1.0,29.0,2024-11-23
+8397-DEQGC,mina,Nepal,Kathmandu,Female,1993-12-02,33,26-35,2023-12-23,Organic,2024-12-23,Standard,Annual,,,14.63,282,35,0,1003.0,2.75,1-3 years,175.56,,,Medium Risk,,,,
+4762-RGFPY,seema,India,Meghalaya,Female,1994-05-28,32,26-35,2023-08-27,Paid,2024-08-27,Standard,Monthly,,,14.43,357,17,0,1121.0,3.07,3-5 years,173.16,,,Low Risk,,,,
+4671-QXILQ,sunita,Nepal,Kathmandu,Female,1990-05-16,36,36-45,2021-04-23,Organic,2022-04-23,Standard,Monthly,2023-07-13,Forgot to cancel trial,17.52,945,97,1,811.0,2.22,1-3 years,210.24,2023.0,7.0,High Risk,,,,
+5182-YEIUS,ritu,India,Tamil Nadu,Male,1971-01-10,55,46-55,2022-08-10,Referral,2023-08-10,Basic,Monthly,2023-06-25,Too expensive,8.88,271,90,1,319.0,0.87,0-1 years,106.56,2023.0,6.0,High Risk,,,,
+5432-WMJHO,deepak,India,Delhi,Male,2003-07-10,23,18-25,2020-05-29,Paid,2021-05-29,Basic,Monthly,,,8.77,544,31,0,2306.0,6.31,5-7 years,105.24,,,Medium Risk,,,,
+8824-FTQSX,vinod,India,Maharashtra,Male,1990-12-20,36,36-45,2022-06-29,Paid,2023-06-29,Basic,Annual,,,7.58,285,38,0,1545.0,4.23,3-5 years,90.96000000000001,,,Medium Risk,,,,
+9667-FAGXO,sudevi,India,Kerala,Female,1975-01-07,51,46-55,2024-01-11,Referral,2025-01-11,Premium,Annual,,,22.0,446,26,0,984.0,2.69,1-3 years,264.0,,,Low Risk,,,,
+9660-THMNK,vinod,India,Maharashtra,Female,1975-09-19,51,46-55,2020-11-18,Paid,2021-11-18,Standard,Annual,,,15.1,929,3,0,2133.0,5.84,5-7 years,181.2,,,Low Risk,1.0,1.0,39.0,2024-10-15
+2717-TDEOO,rishabh,India,Delhi,Male,1966-10-25,60,56-65,2023-04-12,Paid,2024-04-12,Standard,Annual,,,13.41,366,13,0,1258.0,3.44,3-5 years,160.92000000000002,,,Low Risk,,,,
+7989-GGGRN,alok,India,Punjab,Female,2006-03-05,20,18-25,2021-11-19,Referral,2022-11-19,Standard,Annual,,,14.52,650,23,0,1767.0,4.84,3-5 years,174.24,,,Low Risk,,,,
+0760-BQCZQ,asha,India,Tamil Nadu,Male,1989-06-02,37,36-45,2020-07-13,Referral,2021-07-13,Standard,Monthly,,,13.97,720,48,0,2261.0,6.19,5-7 years,167.64000000000001,,,Medium Risk,,,,
+6171-QJQVN,gopal,India,Uttar Pradesh,Male,1983-03-17,43,36-45,2023-03-13,Organic,2024-03-13,Standard,Annual,,,17.62,474,43,0,1288.0,3.53,3-5 years,211.44,,,Medium Risk,2.0,0.0,46.5,2025-11-21
+5653-MMPND,suresh,India,Uttar Pradesh,Male,1988-01-31,38,36-45,2019-10-19,Referral,2020-10-19,Standard,Monthly,2024-10-09,Not enough content,13.18,1032,94,1,1817.0,4.97,3-5 years,158.16,2024.0,10.0,High Risk,1.0,0.0,15.0,2024-01-16
+3465-DEPVR,nandini,India,Gujarat,Female,1970-01-31,56,56-65,2022-11-28,Organic,2023-11-28,Standard,Annual,,,15.43,421,29,0,1393.0,3.81,3-5 years,185.16,,,Low Risk,1.0,1.0,14.0,2025-09-17
+7844-MPQKG,vishakha,Nepal,Kathmandu,Male,1972-03-24,54,46-55,2021-10-07,Organic,2022-10-07,Basic,Annual,2025-06-19,Too expensive,7.09,341,91,1,1351.0,3.7,3-5 years,85.08,2025.0,6.0,High Risk,1.0,0.0,75.0,2025-02-10
+0642-XDEXN,kamala,Nepal,Kathmandu,Female,1965-11-02,61,56-65,2021-12-06,Organic,2022-12-06,Standard,Monthly,,,17.71,710,44,0,1750.0,4.79,3-5 years,212.52,,,Medium Risk,,,,
+4644-YFPMM,sneha,India,Bihar,Male,1971-05-28,55,46-55,2020-10-23,Referral,2021-10-23,Basic,Annual,,,9.3,563,7,0,2159.0,5.91,5-7 years,111.60000000000001,,,Low Risk,,,,
+2979-QNERX,maya,India,Uttar Pradesh,Female,1982-04-17,44,36-45,2024-10-24,Referral,2025-10-24,Premium,Monthly,,,25.37,194,36,0,697.0,1.91,1-3 years,304.44,,,Medium Risk,1.0,1.0,12.0,2025-03-28
+3315-NXRVP,deepak,India,Delhi,Male,1991-11-28,35,26-35,2023-04-17,Referral,2024-04-17,Standard,Monthly,,,16.66,465,24,0,1253.0,3.43,3-5 years,199.92000000000002,,,Low Risk,,,,
+8246-TCRXO,keshav,India,Bihar,Male,1983-11-15,43,36-45,2020-08-07,Organic,2021-08-07,Basic,Annual,,,7.62,428,54,0,2236.0,6.12,5-7 years,91.44,,,Medium Risk,,,,
+0711-SLYMT,dinesh,Nepal,Kathmandu,Female,2005-09-22,21,18-25,2024-07-07,Paid,2025-07-07,Basic,Annual,,,7.2,83,29,0,806.0,2.21,1-3 years,86.4,,,Low Risk,,,,
+9439-CDMGW,vijay,Nepal,Kathmandu,Female,1976-07-25,50,46-55,2020-11-29,Paid,2021-11-29,Basic,Monthly,,,7.55,419,9,0,2122.0,5.81,5-7 years,90.6,,,Low Risk,,,,
+9469-NNJFU,yash,India,Kerala,Male,1971-12-11,55,46-55,2024-01-20,Referral,2025-01-20,Standard,Monthly,,,14.05,265,14,0,975.0,2.67,1-3 years,168.60000000000002,,,Low Risk,1.0,1.0,15.0,2025-11-28
+9590-GWLJH,harish,India,Telangana,Female,1989-10-07,37,36-45,2021-11-28,Organic,2022-11-28,Premium,Annual,2022-12-03,Switched to competitor,25.35,1244,90,1,370.0,1.01,1-3 years,304.20000000000005,2022.0,12.0,High Risk,,,,
+7904-EOMZP,harish,India,Meghalaya,Female,1970-05-06,56,56-65,2022-04-15,Organic,2023-04-15,Basic,Monthly,2022-12-07,Switched to competitor,7.36,246,85,1,236.0,0.65,0-1 years,88.32000000000001,2022.0,12.0,High Risk,1.0,0.0,94.0,2024-09-03
+7317-UYCNU,mina,India,Rajasthan,Female,1993-07-11,33,26-35,2019-09-08,Referral,2020-09-08,Basic,Monthly,,,9.86,636,26,0,2570.0,7.04,7+ years,118.32,,,Low Risk,1.0,0.0,46.0,2024-05-21
+2381-MPCGJ,mira,India,Punjab,Female,1992-07-17,34,26-35,2024-10-31,Referral,2025-10-31,Premium,Annual,,,24.8,215,23,0,690.0,1.89,1-3 years,297.6,,,Low Risk,,,,
+4693-SPYVQ,om,India,Maharashtra,Female,2003-02-26,23,18-25,2023-02-27,Paid,2024-02-27,Standard,Annual,,,14.71,474,26,0,1302.0,3.56,3-5 years,176.52,,,Low Risk,,,,
+8489-HAPNG,suresh,India,Karnataka,Male,1975-09-25,51,46-55,2019-08-23,Referral,2020-08-23,Premium,Monthly,,,25.36,1783,48,0,2586.0,7.08,7+ years,304.32,,,Medium Risk,1.0,0.0,69.0,2024-12-23
+2579-CHKRK,vikram,India,Telangana,Male,1998-01-21,28,26-35,2020-07-22,Organic,2021-07-22,Basic,Annual,2024-02-08,Billing issue,7.36,475,84,1,1296.0,3.55,3-5 years,88.32000000000001,2024.0,2.0,High Risk,1.0,0.0,77.0,2025-08-31
+1477-OSOPJ,asha,India,Uttar Pradesh,Male,1973-09-23,53,46-55,2024-04-30,Organic,2025-04-30,Standard,Monthly,,,16.29,263,3,0,874.0,2.39,1-3 years,195.48,,,Low Risk,2.0,2.0,29.5,2025-11-06
+6618-OGKCB,meena,India,Gujarat,Male,2001-01-07,25,18-25,2023-01-15,Organic,2024-01-15,Premium,Annual,,,25.84,759,27,0,1345.0,3.68,3-5 years,310.08,,,Low Risk,1.0,1.0,8.0,2025-03-19
+4222-WVOSZ,jyoti,India,Uttar Pradesh,Male,1999-10-17,27,26-35,2019-11-30,Organic,2020-11-30,Basic,Annual,,,9.81,738,48,0,2487.0,6.81,5-7 years,117.72,,,Medium Risk,1.0,1.0,14.0,2025-10-17
+7548-XWMGJ,sneha,India,Uttar Pradesh,Male,1983-07-03,43,36-45,2023-04-26,Paid,2024-04-26,Basic,Monthly,,,7.58,223,47,0,1244.0,3.41,3-5 years,90.96000000000001,,,Medium Risk,1.0,1.0,21.0,2024-01-22
+8462-NSGHK,usha,India,Delhi,Male,2006-10-12,20,18-25,2024-08-28,Organic,2025-08-28,Basic,Monthly,,,8.48,95,57,0,754.0,2.06,1-3 years,101.76,,,Medium Risk,,,,
+5792-FOETY,nisha,India,Delhi,Female,1973-12-16,53,46-55,2024-03-27,Referral,2025-03-27,Basic,Monthly,2024-07-22,No longer needed,8.33,133,76,1,117.0,0.32,0-1 years,99.96000000000001,2024.0,7.0,High Risk,,,,
+3965-WFFGQ,sudevi,India,Nagaland,Male,2006-04-12,20,18-25,2020-01-02,Paid,2021-01-02,Basic,Monthly,,,9.97,752,26,0,2454.0,6.72,5-7 years,119.64000000000001,,,Low Risk,1.0,1.0,24.0,2025-09-03
+0108-TOBMQ,padma,Nepal,Kathmandu,Male,1987-01-07,39,36-45,2022-02-22,Organic,2023-02-22,Basic,Annual,2024-12-25,Switched to competitor,7.76,280,87,1,1037.0,2.84,1-3 years,93.12,2024.0,12.0,High Risk,,,,
+4591-KTDNL,mira,India,Telangana,Male,1982-08-30,44,36-45,2022-09-25,Organic,2023-09-25,Premium,Monthly,,,25.65,822,49,0,1457.0,3.99,3-5 years,307.79999999999995,,,Medium Risk,,,,
+2863-LDNIA,pooja,India,Punjab,Male,1969-07-09,57,56-65,2023-04-13,Paid,2024-04-13,Standard,Annual,2023-09-04,Switched to competitor,16.92,418,72,1,144.0,0.39,0-1 years,203.04000000000002,2023.0,9.0,High Risk,,,,
+4254-EGHYI,kavita,India,Delhi,Female,1974-06-12,52,46-55,2022-10-25,Paid,2023-10-25,Standard,Monthly,,,17.68,554,26,0,1427.0,3.91,3-5 years,212.16,,,Low Risk,1.0,0.0,37.0,2025-09-07
+6099-JKLOZ,amit,India,Nagaland,Female,1977-02-09,49,46-55,2019-01-07,Referral,2020-01-07,Basic,Monthly,,,8.76,790,25,0,2814.0,7.7,7+ years,105.12,,,Low Risk,1.0,1.0,10.0,2025-03-07
+9098-LJDYD,raghav,India,Rajasthan,Female,1987-05-31,39,36-45,2020-06-01,Referral,2021-06-01,Standard,Monthly,,,16.0,958,31,0,2303.0,6.31,5-7 years,192.0,,,Medium Risk,,,,
+8748-SUHOO,harish,India,Nagaland,Female,1972-04-30,54,46-55,2022-07-18,Referral,2023-07-18,Basic,Monthly,2023-06-11,Billing issue,9.82,371,79,1,328.0,0.9,0-1 years,117.84,2023.0,6.0,High Risk,,,,
+7807-VCTGJ,geeta,India,Kerala,Male,1983-06-22,43,36-45,2019-05-21,Organic,2020-05-21,Standard,Monthly,,,14.53,1242,32,0,2680.0,7.34,7+ years,174.35999999999999,,,Medium Risk,2.0,1.0,34.0,2024-06-11
+9451-OQEUJ,lata,India,Delhi,Female,1985-01-18,41,36-45,2021-06-02,Referral,2022-06-02,Standard,Annual,,,16.51,937,54,0,1937.0,5.3,5-7 years,198.12,,,Medium Risk,1.0,1.0,28.0,2024-01-27
+6243-PMYWQ,usha,India,Bihar,Female,1992-06-20,34,26-35,2021-05-12,Organic,2022-05-12,Premium,Monthly,,,25.66,1382,51,0,1958.0,5.36,5-7 years,307.92,,,Medium Risk,2.0,1.0,40.5,2025-05-28
+1168-CIIQS,harish,India,Tamil Nadu,Female,2000-01-13,26,26-35,2021-01-03,Organic,2022-01-03,Premium,Annual,2024-02-29,Poor streaming quality,24.63,1512,70,1,1152.0,3.15,3-5 years,295.56,2024.0,2.0,High Risk,,,,
+5950-TNLEW,vishakha,India,Uttar Pradesh,Female,1976-04-15,50,46-55,2022-10-14,Referral,2023-10-14,Standard,Annual,,,15.36,490,20,0,1438.0,3.94,3-5 years,184.32,,,Low Risk,1.0,1.0,5.0,2025-05-24
+1311-FKCYM,mina,India,Maharashtra,Female,1988-07-03,38,36-45,2022-03-02,Referral,2023-03-02,Standard,Annual,,,13.97,503,39,0,1664.0,4.56,3-5 years,167.64000000000001,,,Medium Risk,1.0,1.0,32.0,2024-11-21
+1363-CQCYK,amit,India,Uttar Pradesh,Female,1977-09-30,49,46-55,2019-08-10,Organic,2020-08-10,Premium,Annual,2025-02-05,Not enough content,24.54,1581,92,1,2006.0,5.49,5-7 years,294.48,2025.0,2.0,High Risk,,,,
+2071-DVARW,rekha,India,Delhi,Female,2004-01-25,22,18-25,2020-08-16,Organic,2021-08-16,Basic,Monthly,,,9.4,582,56,0,2227.0,6.1,5-7 years,112.80000000000001,,,Medium Risk,,,,
+4463-ODYOP,tarun,Nepal,Kathmandu,Female,1988-06-25,38,36-45,2020-02-22,Referral,2021-02-22,Standard,Monthly,,,17.93,1326,55,0,2403.0,6.58,5-7 years,215.16,,,Medium Risk,,,,
+8745-IJOUL,alok,India,Bihar,Male,1971-12-27,55,46-55,2020-11-20,Paid,2021-11-20,Premium,Annual,2024-08-12,Not enough content,21.47,1365,86,1,1361.0,3.73,3-5 years,257.64,2024.0,8.0,High Risk,2.0,0.0,39.5,2025-10-22
+0001-NTDHN,satish,India,Delhi,Male,1965-05-30,61,56-65,2023-11-12,Paid,2024-11-12,Premium,Annual,2024-10-16,Billing issue,24.12,412,85,1,339.0,0.93,0-1 years,289.44,2024.0,10.0,High Risk,,,,
+4799-PUOEW,ritu,India,Punjab,Female,1972-04-29,54,46-55,2020-12-07,Referral,2021-12-07,Standard,Monthly,,,14.87,916,19,0,2114.0,5.79,5-7 years,178.44,,,Low Risk,,,,
+6385-VFCQN,kiran,India,West Bengal,Female,1998-04-30,28,26-35,2023-12-29,Referral,2024-12-29,Standard,Monthly,,,13.59,247,34,0,997.0,2.73,1-3 years,163.07999999999998,,,Medium Risk,,,,
+4404-KWEHQ,bhavna,India,Tamil Nadu,Female,1992-12-08,34,26-35,2021-07-10,Organic,2022-07-10,Basic,Annual,2022-08-14,Poor streaming quality,8.71,445,88,1,400.0,1.1,1-3 years,104.52000000000001,2022.0,8.0,High Risk,,,,
+5253-ABNEC,kiran,India,Meghalaya,Female,1984-09-01,42,36-45,2024-06-06,Paid,2025-06-06,Premium,Annual,,,24.5,281,47,0,837.0,2.29,1-3 years,294.0,,,Medium Risk,,,,
+3814-CAFKU,padma,India,Kerala,Female,1996-04-06,30,26-35,2021-01-27,Paid,2022-01-27,Standard,Annual,,,16.49,972,35,0,2063.0,5.65,5-7 years,197.88,,,Medium Risk,1.0,1.0,24.0,2025-02-18
+5410-CTDGK,naresh,India,Rajasthan,Female,2005-03-07,21,18-25,2024-06-24,Paid,2025-06-24,Basic,Monthly,,,9.5,133,13,0,819.0,2.24,1-3 years,114.0,,,Low Risk,,,,
+6251-VDTGU,om,India,Uttar Pradesh,Female,1966-07-04,60,56-65,2021-01-07,Referral,2022-01-07,Basic,Annual,,,8.33,391,43,0,2083.0,5.7,5-7 years,99.96000000000001,,,Medium Risk,,,,
+8538-RFKYY,anita,India,Karnataka,Female,1989-08-27,37,36-45,2020-10-22,Referral,2021-10-22,Basic,Monthly,,,7.76,506,25,0,2160.0,5.91,5-7 years,93.12,,,Low Risk,,,,
+4150-MHJBR,parvati,India,Uttar Pradesh,Female,1984-06-23,42,36-45,2020-12-03,Paid,2021-12-03,Standard,Monthly,,,17.72,927,35,0,2118.0,5.8,5-7 years,212.64,,,Medium Risk,,,,
+2742-UPKGZ,naresh,India,Meghalaya,Male,1999-07-30,27,26-35,2022-04-16,Organic,2023-04-16,Standard,Annual,,,15.21,560,24,0,1619.0,4.43,3-5 years,182.52,,,Low Risk,,,,
+8190-CQYZQ,madan,India,Kerala,Female,1971-11-27,55,46-55,2024-09-22,Paid,2025-09-22,Basic,Monthly,2025-05-23,Too expensive,7.29,58,97,1,243.0,0.67,0-1 years,87.48,2025.0,5.0,High Risk,1.0,1.0,16.0,2024-12-09
+1759-DGZUT,om,India,Telangana,Male,1995-12-02,31,26-35,2020-07-03,Organic,2021-07-03,Standard,Annual,,,14.07,759,6,0,2271.0,6.22,5-7 years,168.84,,,Low Risk,,,,
+2207-GBSOO,satish,India,Telangana,Male,1973-05-16,53,46-55,2021-11-10,Referral,2022-11-10,Basic,Monthly,,,8.94,390,45,0,1776.0,4.86,3-5 years,107.28,,,Medium Risk,,,,
+5303-THVXO,maya,India,Telangana,Female,1985-02-27,41,36-45,2023-10-09,Referral,2024-10-09,Premium,Monthly,2024-05-23,Billing issue,21.71,473,90,1,227.0,0.62,0-1 years,260.52,2024.0,5.0,High Risk,1.0,1.0,34.0,2024-01-19
+4314-OLUNT,lalita,India,Kerala,Male,1975-09-18,51,46-55,2023-03-05,Referral,2024-03-05,Standard,Monthly,,,16.23,503,52,0,1296.0,3.55,3-5 years,194.76,,,Medium Risk,,,,
+1037-ROKNM,sudevi,India,West Bengal,Male,1983-05-21,43,36-45,2023-11-12,Referral,2024-11-12,Standard,Monthly,,,17.81,329,45,0,1044.0,2.86,1-3 years,213.71999999999997,,,Medium Risk,,,,
+1809-CRBYE,mira,India,Telangana,Male,1986-10-10,40,36-45,2023-07-25,Organic,2024-07-25,Basic,Annual,2024-04-11,Not enough content,8.91,227,95,1,261.0,0.71,0-1 years,106.92,2024.0,4.0,High Risk,,,,
+9355-QKMQP,mina,India,Kerala,Female,1992-03-07,34,26-35,2019-02-10,Referral,2020-02-10,Basic,Monthly,,,9.93,876,9,0,2780.0,7.61,7+ years,119.16,,,Low Risk,1.0,0.0,57.0,2024-08-08
+0214-YFMXC,madan,India,Kerala,Male,1998-05-09,28,26-35,2020-12-20,Referral,2021-12-20,Standard,Annual,,,17.37,965,57,0,2101.0,5.75,5-7 years,208.44,,,Medium Risk,,,,
+6814-VUBQN,arjun,India,West Bengal,Male,1974-09-08,52,46-55,2022-03-01,Paid,2023-03-01,Standard,Monthly,,,16.03,614,13,0,1665.0,4.56,3-5 years,192.36,,,Low Risk,,,,
+1591-CGKFR,deepak,Nepal,Kathmandu,Female,1990-01-14,36,36-45,2022-11-14,Referral,2023-11-14,Premium,Annual,2024-05-22,Billing issue,24.38,800,91,1,555.0,1.52,1-3 years,292.56,2024.0,5.0,High Risk,,,,
+1728-TORSL,raju,India,Rajasthan,Female,1989-09-02,37,36-45,2020-09-28,Referral,2021-09-28,Standard,Annual,,,13.7,892,25,0,2184.0,5.98,5-7 years,164.39999999999998,,,Low Risk,2.0,1.0,19.5,2025-04-24
+5529-RNPYX,rekha,India,Kerala,Female,1999-04-13,27,26-35,2021-10-17,Paid,2022-10-17,Standard,Annual,,,15.08,667,31,0,1800.0,4.93,3-5 years,180.96,,,Medium Risk,,,,
+5299-POFTY,geeta,India,Kerala,Female,1985-01-27,41,36-45,2024-08-19,Organic,2025-08-19,Basic,Monthly,2025-04-14,No longer needed,9.85,107,79,1,238.0,0.65,0-1 years,118.19999999999999,2025.0,4.0,High Risk,1.0,0.0,53.0,2024-03-07
+0003-SZPNZ,ramesh,India,Maharashtra,Male,1974-12-15,52,46-55,2022-07-04,Organic,2023-07-04,Premium,Monthly,2022-11-28,Switched to competitor,24.16,810,88,1,147.0,0.4,0-1 years,289.92,2022.0,11.0,High Risk,,,,
+5159-AVRHO,sudevi,India,Nagaland,Male,1985-08-26,41,36-45,2022-03-16,Referral,2023-03-16,Standard,Monthly,,,15.45,651,10,0,1650.0,4.52,3-5 years,185.39999999999998,,,Low Risk,1.0,0.0,38.0,2024-11-26
+2267-GXGGH,kamala,Nepal,Kathmandu,Female,1997-12-09,29,26-35,2024-05-18,Referral,2025-05-18,Standard,Monthly,2024-06-20,Billing issue,16.42,190,96,1,33.0,0.09,0-1 years,197.04000000000002,2024.0,6.0,High Risk,1.0,0.0,24.0,2025-04-10
+7905-EVROX,ramesh,India,Karnataka,Female,2001-04-05,25,18-25,2023-10-07,Organic,2024-10-07,Standard,Monthly,,,16.74,369,58,0,1080.0,2.96,1-3 years,200.88,,,Medium Risk,,,,
+1285-UXIWL,rikim,India,Uttar Pradesh,Female,1994-04-14,32,26-35,2024-12-03,Paid,2025-12-03,Standard,Annual,,,13.2,96,35,0,657.0,1.8,1-3 years,158.39999999999998,,,Medium Risk,,,,
+0187-QQBNI,sudevi,India,Gujarat,Male,1996-04-20,30,26-35,2021-07-10,Paid,2022-07-10,Basic,Monthly,2023-09-24,Too expensive,8.09,374,85,1,806.0,2.21,1-3 years,97.08,2023.0,9.0,High Risk,,,,
+0827-RZZTO,rangadevi,India,Uttar Pradesh,Female,1977-12-31,49,46-55,2023-03-09,Paid,2024-03-09,Premium,Monthly,,,22.68,705,20,0,1292.0,3.54,3-5 years,272.15999999999997,,,Low Risk,,,,
+2425-DCOBK,shiva,India,Punjab,Male,1984-06-28,42,36-45,2022-05-10,Organic,2023-05-10,Standard,Monthly,,,14.31,568,21,0,1595.0,4.37,3-5 years,171.72,,,Low Risk,,,,
+2136-TMFKO,rajesh,India,Uttar Pradesh,Male,1976-12-11,50,46-55,2024-10-12,Paid,2025-10-12,Premium,Annual,2025-04-17,Poor streaming quality,21.17,203,70,1,187.0,0.51,0-1 years,254.04000000000002,2025.0,4.0,High Risk,,,,
+5298-ROCKJ,nisha,India,Gujarat,Male,1991-08-23,35,26-35,2022-09-07,Organic,2023-09-07,Basic,Annual,,,7.31,226,8,0,1475.0,4.04,3-5 years,87.72,,,Low Risk,1.0,1.0,16.0,2025-10-19
+4994-EJVUQ,om,India,Karnataka,Female,1973-12-16,53,46-55,2023-10-31,Referral,2024-10-31,Standard,Monthly,,,13.41,241,11,0,1056.0,2.89,1-3 years,160.92000000000002,,,Low Risk,,,,
+2555-TWCBY,rishabh,India,West Bengal,Male,1980-05-26,46,46-55,2021-10-21,Organic,2022-10-21,Basic,Annual,2023-05-25,Switched to competitor,8.18,359,95,1,581.0,1.59,1-3 years,98.16,2023.0,5.0,High Risk,,,,
+1823-HMITF,ashok,India,Tamil Nadu,Male,1986-09-01,40,36-45,2023-12-02,Organic,2024-12-02,Standard,Monthly,2024-07-22,Switched to competitor,15.19,313,98,1,233.0,0.64,0-1 years,182.28,2024.0,7.0,High Risk,,,,
+2315-SRJXN,geeta,India,Rajasthan,Male,1977-09-28,49,46-55,2021-02-15,Organic,2022-02-15,Basic,Annual,2022-04-28,Poor streaming quality,7.39,373,91,1,437.0,1.2,1-3 years,88.67999999999999,2022.0,4.0,High Risk,1.0,1.0,29.0,2024-03-15
+4444-BRAKH,alok,India,Nagaland,Male,1978-02-14,48,46-55,2021-12-24,Organic,2022-12-24,Basic,Annual,,,8.46,385,50,0,1732.0,4.74,3-5 years,101.52000000000001,,,Medium Risk,1.0,1.0,39.0,2025-02-16
+6332-GJZCI,rangadevi,India,Rajasthan,Female,1987-06-17,39,36-45,2023-06-26,Paid,2024-06-26,Standard,Annual,2023-12-02,Too expensive,17.61,380,70,1,159.0,0.44,0-1 years,211.32,2023.0,12.0,High Risk,1.0,0.0,60.0,2025-10-22
+9186-YAGNI,harish,India,Rajasthan,Male,1980-07-22,46,46-55,2022-11-10,Referral,2023-11-10,Standard,Monthly,,,16.83,569,40,0,1411.0,3.86,3-5 years,201.95999999999998,,,Medium Risk,1.0,1.0,5.0,2025-02-28
+5822-QGZNV,geeta,India,Punjab,Male,1989-11-23,37,36-45,2019-02-02,Referral,2020-02-02,Standard,Annual,2024-11-26,Too expensive,14.44,1214,74,1,2124.0,5.82,5-7 years,173.28,2024.0,11.0,High Risk,1.0,0.0,75.0,2025-05-22
+3695-DXRCJ,amit,India,Bihar,Female,1990-09-13,36,36-45,2021-10-18,Organic,2022-10-18,Basic,Annual,,,7.34,305,14,0,1799.0,4.93,3-5 years,88.08,,,Low Risk,,,,
+9918-IOFDO,vikram,India,Meghalaya,Male,1995-11-20,31,26-35,2024-04-25,Paid,2025-04-25,Standard,Monthly,,,17.04,280,42,0,879.0,2.41,1-3 years,204.48,,,Medium Risk,,,,
+8582-XLXUR,anita,India,Gujarat,Male,1990-01-01,36,36-45,2020-09-01,Organic,2021-09-01,Basic,Monthly,,,7.39,498,29,0,2211.0,6.05,5-7 years,88.67999999999999,,,Low Risk,2.0,1.0,61.5,2025-06-19
+1939-EVDAI,yash,India,Bihar,Male,1984-11-15,42,36-45,2019-03-14,Referral,2020-03-14,Standard,Monthly,,,13.44,1001,42,0,2748.0,7.52,7+ years,161.28,,,Medium Risk,1.0,0.0,15.0,2025-01-03
+4485-DEDAZ,kiran,Nepal,Kathmandu,Male,1975-05-12,51,46-55,2021-08-05,Paid,2022-08-05,Basic,Monthly,2023-03-09,Not enough content,8.27,384,73,1,581.0,1.59,1-3 years,99.24,2023.0,3.0,High Risk,1.0,0.0,33.0,2024-11-26
+3783-RJRMN,naresh,India,Kerala,Female,2003-03-24,23,18-25,2022-02-23,Organic,2023-02-23,Premium,Monthly,2022-07-09,Billing issue,24.55,1119,70,1,136.0,0.37,0-1 years,294.6,2022.0,7.0,High Risk,,,,
+7763-DFATA,kiran,India,Bihar,Female,1998-04-20,28,26-35,2022-08-10,Referral,2023-08-10,Basic,Monthly,,,8.41,267,25,0,1503.0,4.11,3-5 years,100.92,,,Low Risk,,,,
+3323-TBYZW,satish,India,Gujarat,Female,2004-10-25,22,18-25,2022-10-01,Organic,2023-10-01,Basic,Monthly,,,7.28,247,23,0,1451.0,3.97,3-5 years,87.36,,,Low Risk,1.0,1.0,8.0,2025-08-30
+6633-UPVSK,mira,India,Telangana,Male,1985-04-05,41,36-45,2023-01-16,Paid,2024-01-16,Standard,Annual,2023-05-15,Switched to competitor,14.8,461,82,1,119.0,0.33,0-1 years,177.60000000000002,2023.0,5.0,High Risk,,,,
+0694-WGNZB,radha,India,Telangana,Female,1967-03-19,59,56-65,2020-06-18,Paid,2021-06-18,Standard,Monthly,,,16.0,1117,54,0,2286.0,6.26,5-7 years,192.0,,,Medium Risk,,,,
+6521-WUHEH,mina,India,Telangana,Female,1985-10-18,41,36-45,2021-02-19,Referral,2022-02-19,Basic,Monthly,,,8.33,500,21,0,2040.0,5.59,5-7 years,99.96000000000001,,,Low Risk,1.0,0.0,11.0,2024-04-05
+7400-CNEPX,raghvendra,India,Punjab,Female,1979-07-06,47,46-55,2024-04-26,Referral,2025-04-26,Premium,Monthly,,,22.0,280,47,0,878.0,2.4,1-3 years,264.0,,,Medium Risk,,,,
+2930-LXXWC,rekha,India,Rajasthan,Female,1997-11-22,29,26-35,2021-10-31,Organic,2022-10-31,Premium,Annual,,,24.79,1088,60,0,1786.0,4.89,3-5 years,297.48,,,Medium Risk,,,,
+7362-QCSSZ,anita,India,Punjab,Male,1982-01-27,44,36-45,2023-11-22,Paid,2024-11-22,Basic,Monthly,,,8.25,165,10,0,1034.0,2.83,1-3 years,99.0,,,Low Risk,2.0,0.0,46.0,2025-09-06
+5491-ORDWE,mina,India,Bihar,Male,1978-11-20,48,46-55,2022-04-01,Organic,2023-04-01,Basic,Monthly,,,8.69,375,36,0,1634.0,4.47,3-5 years,104.28,,,Medium Risk,,,,
+7311-HEXYA,geeta,India,Maharashtra,Female,1987-04-29,39,36-45,2024-10-04,Paid,2025-10-04,Premium,Annual,,,21.82,212,19,0,717.0,1.96,1-3 years,261.84000000000003,,,Low Risk,1.0,0.0,94.0,2025-03-16
+8904-UPMFR,tarun,India,Bihar,Female,1968-07-24,58,56-65,2021-04-27,Paid,2022-04-27,Basic,Monthly,,,7.47,402,52,0,1973.0,5.4,5-7 years,89.64,,,Medium Risk,2.0,0.0,20.5,2024-07-31
+0107-GOQOV,mina,India,Rajasthan,Female,1967-06-22,59,56-65,2024-10-01,Organic,2025-10-01,Standard,Annual,,,16.53,165,19,0,720.0,1.97,1-3 years,198.36,,,Low Risk,,,,
+0601-DAPPI,rangadevi,India,Karnataka,Male,1983-09-15,43,36-45,2020-05-02,Organic,2021-05-02,Basic,Monthly,2021-12-21,Too expensive,7.13,386,98,1,598.0,1.64,1-3 years,85.56,2021.0,12.0,High Risk,1.0,0.0,43.0,2025-06-02
+2643-RPRPU,deepak,India,Odisha,Female,1990-12-21,36,36-45,2022-01-12,Paid,2023-01-12,Premium,Monthly,2024-03-07,Not enough content,21.25,905,81,1,785.0,2.15,1-3 years,255.0,2024.0,3.0,High Risk,,,,
+0587-CHJJB,pankaj,Nepal,Kathmandu,Male,1978-02-19,48,46-55,2019-12-07,Organic,2020-12-07,Premium,Annual,,,25.41,1531,20,0,2480.0,6.79,5-7 years,304.92,,,Low Risk,,,,
+1999-SHNNS,madan,India,Nagaland,Male,1997-09-25,29,26-35,2022-08-22,Organic,2023-08-22,Premium,Monthly,,,24.12,767,13,0,1491.0,4.08,3-5 years,289.44,,,Low Risk,,,,
+8666-ZMRYZ,vijay,India,Bihar,Male,2003-01-12,23,18-25,2021-11-14,Organic,2022-11-14,Premium,Monthly,,,23.68,1122,43,0,1772.0,4.85,3-5 years,284.15999999999997,,,Medium Risk,2.0,2.0,20.5,2025-02-06
+8608-OQYPM,padma,India,Delhi,Female,2004-08-21,22,18-25,2021-11-20,Referral,2022-11-20,Premium,Monthly,2024-03-08,Too expensive,24.16,972,88,1,839.0,2.3,1-3 years,289.92,2024.0,3.0,High Risk,,,,
+4759-ZAAQD,pooja,India,Bihar,Female,1967-01-16,59,56-65,2024-01-02,Paid,2025-01-02,Basic,Annual,2025-05-16,Too expensive,9.17,186,75,1,500.0,1.37,1-3 years,110.03999999999999,2025.0,5.0,High Risk,2.0,1.0,38.0,2025-01-05
+9181-UFQRG,maya,India,West Bengal,Male,1987-09-24,39,36-45,2020-12-22,Organic,2021-12-22,Basic,Monthly,,,8.46,435,58,0,2099.0,5.75,5-7 years,101.52000000000001,,,Medium Risk,,,,
